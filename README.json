@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🔥 热门原创技能（优先看这几个）"
+    },
+    {
+      "description": "Claude Code Skills 是可复用的指令模块，让 Claude Code 拥有特定领域的专业能力。只需一个 文件，就能让 Claude 变成代码审查专家、安全审计师、文档写手…",
+      "items": [],
+      "title": "📖 什么是 Claude Code Skills？"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⭐ 精选第三方技能"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🏆 热门与高潜技能"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📣 平台运营 / 自媒体 / 办公流量"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 开发效率"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎨 内容创作"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔬 学术科研"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🤖 AI Agent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💰 金融/商业"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌏 中文专属"
+    },
+    {
+      "description": "以下技能由本仓库原创开发，可直接安装使用：",
+      "items": [],
+      "title": "🎁 原创技能（本仓库独有）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 快速安装"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔍 技能列表"
+    },
+    {
+      "description": "每个 Skill 就是一个目录，里面放一个 文件：",
+      "items": [],
+      "title": "🚀 如何创建自己的 Skill"
+    },
+    {
+      "description": "在 Star History 查看项目增长趋势",
+      "items": [],
+      "title": "📈 Star History"
+    },
+    {
+      "description": "欢迎提交 PR！请将你的 skill 放入 目录并更新上方列表。\n📢 推荐优质 Skills，审核后收录 →\n维护和收录标准见：项目维护手册。",
+      "items": [],
+      "title": "🤝 贡献"
+    },
+    {
+      "description": "请给个 Star ⭐ 这是对我最大的鼓励！",
+      "items": [],
+      "title": "⭐ 如果这个项目帮到了你"
+    },
+    {
+      "description": "MIT",
+      "items": [],
+      "title": "📝 License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:53:35.641Z",
+    "original_repository": "laolaoshiren/claude-code-skills-zh",
+    "original_repository_sha": "00183b506e56cc3c1d9de7e2676bd5ede2b57c63",
+    "enhanced_repository": "enhansome/enhansome-claude-code-skills-zh",
+    "enhanced_repository_description": null,
+    "title": "Awesome 🛠️ Claude Code Skills 中文精选集 with stars"
+  }
+}
