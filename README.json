@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "everything-claude-code",
-              "description": "🧠 Claude Code 全栈技能系统：Skills + 记忆 + 安全 + 研究驱动开发 262.3K+",
+              "description": "🧠 Claude Code 全栈技能系统：Skills + 记忆 + 安全 + 研究驱动开发 263.4K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,11 +17,11 @@
                 "id": 1136590548,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T00:01:14Z",
-                "open_issues": 206,
+                "last_commit": "2026-09-21T04:55:15Z",
+                "open_issues": 214,
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 263233,
+                "stars": 264350,
                 "topics": [
                   "ai-agents",
                   "anthropic",
@@ -42,16 +42,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+                "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
                 "homepage": "https://sickn33.github.io/agentic-awesome-skills/",
                 "id": 1134426800,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:08:35Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-21T06:58:24Z",
+                "open_issues": 2,
                 "owner": "sickn33",
                 "repo": "agentic-awesome-skills",
-                "stars": 46623,
+                "stars": 46693,
                 "topics": [
                   "agent-skills",
                   "agentic-skills",
@@ -89,11 +89,11 @@
                 "id": 1150626239,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T03:52:41Z",
+                "last_commit": "2026-09-21T10:55:22Z",
                 "open_issues": 41,
                 "owner": "ValueCell-ai",
                 "repo": "ClawX",
-                "stars": 7616,
+                "stars": 7615,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -123,7 +123,7 @@
                 "open_issues": 73,
                 "owner": "kepano",
                 "repo": "obsidian-skills",
-                "stars": 48633,
+                "stars": 48683,
                 "topics": [
                   "agents",
                   "agentskills",
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "caveman",
-              "description": "🪨 用最少的 token 说最短的话，节省 65% token 106.6K+",
+              "description": "🪨 用最少的 token 说最短的话，节省 65% token 106.9K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -158,11 +158,11 @@
                 "id": 1201173969,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T07:17:30Z",
-                "open_issues": 130,
+                "last_commit": "2026-09-21T08:19:59Z",
+                "open_issues": 124,
                 "owner": "JuliusBrussee",
                 "repo": "caveman",
-                "stars": 106884,
+                "stars": 107093,
                 "topics": [
                   "ai",
                   "anthropic",
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "career-ops",
-              "description": "💼 AI 求职系统：14 种技能模式 + Go 仪表盘 + PDF 生成 72.1K+",
+              "description": "💼 AI 求职系统：14 种技能模式 + Go 仪表盘 + PDF 生成 72.2K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -190,11 +190,11 @@
                 "id": 1201476594,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T18:21:38Z",
-                "open_issues": 540,
+                "last_commit": "2026-09-20T21:15:32Z",
+                "open_issues": 597,
                 "owner": "career-ops-hq",
                 "repo": "career-ops",
-                "stars": 72218,
+                "stars": 72306,
                 "topics": [
                   "ai-agent",
                   "ai-job-search",
@@ -223,7 +223,7 @@
             {
               "node_type": "item",
               "title": "graphify",
-              "description": "🕸️ 将代码、文档和数据结构转为可查询知识图谱 119.4K+",
+              "description": "🕸️ 将代码、文档和数据结构转为可查询知识图谱 119.8K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -232,11 +232,11 @@
                 "id": 1200597263,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:16:28Z",
-                "open_issues": 1430,
+                "last_commit": "2026-09-20T17:53:37Z",
+                "open_issues": 1418,
                 "owner": "Graphify-Labs",
                 "repo": "graphify",
-                "stars": 119749,
+                "stars": 120074,
                 "topics": [
                   "ai-agents",
                   "antigravity",
@@ -264,7 +264,7 @@
             {
               "node_type": "item",
               "title": "marketingskills",
-              "description": "📈 营销技能包：CRO、文案、SEO、数据分析、增长工程 50.9K+",
+              "description": "📈 营销技能包：CRO、文案、SEO、数据分析、增长工程 51K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -277,7 +277,7 @@
                 "open_issues": 114,
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 50968,
+                "stars": 51053,
                 "topics": [
                   "claude",
                   "codex",
@@ -299,10 +299,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-19T18:57:17Z",
-                "open_issues": 18,
+                "open_issues": 21,
                 "owner": "OthmanAdi",
                 "repo": "planning-with-files",
-                "stars": 27012,
+                "stars": 27041,
                 "topics": [
                   "agent-skills",
                   "autonomous-agents",
@@ -331,7 +331,7 @@
             {
               "node_type": "item",
               "title": "humanizer",
-              "description": "✍️ 消除 AI 写作痕迹，让文本更自然 50K+",
+              "description": "✍️ 消除 AI 写作痕迹，让文本更自然 50.5K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -341,10 +341,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-06T20:26:10Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "blader",
                 "repo": "humanizer",
-                "stars": 50452,
+                "stars": 50890,
                 "topics": [
                   "agent-skills",
                   "ai-writing",
@@ -360,7 +360,7 @@
             {
               "node_type": "item",
               "title": "Claude-Code-Game-Studios",
-              "description": "🎮 49 个 AI 代理 + 72 个工作流，完整游戏开发工作室 25.2K+",
+              "description": "🎮 49 个 AI 代理 + 72 个工作流，完整游戏开发工作室 25.3K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -373,7 +373,7 @@
                 "open_issues": 59,
                 "owner": "Donchitos",
                 "repo": "Claude-Code-Game-Studios",
-                "stars": 25269,
+                "stars": 25329,
                 "topics": [
                   "ai-agents",
                   "ai-assisted-development",
@@ -407,7 +407,7 @@
                 "open_issues": 106,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15944,
+                "stars": 15966,
                 "topics": [
                   "ai",
                   "authentication",
@@ -449,7 +449,7 @@
                 "open_issues": 4,
                 "owner": "liyupi",
                 "repo": "ai-guide",
-                "stars": 20226,
+                "stars": 20275,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "claude-skills",
-              "description": "📦 232+ 技能包，支持 Claude Code / Codex / Gemini CLI / Cursor 26.1K+",
+              "description": "📦 232+ 技能包，支持 Claude Code / Codex / Gemini CLI / Cursor 26.2K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -488,10 +488,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-30T09:46:16Z",
-                "open_issues": 18,
+                "open_issues": 25,
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 26168,
+                "stars": 26205,
                 "topics": [
                   "agent-plugins",
                   "agent-skills",
@@ -529,11 +529,11 @@
                 "id": 1129786550,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T03:52:42Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-20T22:07:17Z",
+                "open_issues": 38,
                 "owner": "teng-lin",
                 "repo": "notebooklm-py",
-                "stars": 19395,
+                "stars": 19413,
                 "topics": [
                   "agentic-skill",
                   "claude-skills",
@@ -556,7 +556,7 @@
             {
               "node_type": "item",
               "title": "Humanizer-zh",
-              "description": "✍️ Humanizer 中文版，消除中文 AI 写作痕迹 17.5K+",
+              "description": "✍️ Humanizer 中文版，消除中文 AI 写作痕迹 17.6K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -569,7 +569,7 @@
                 "open_issues": 30,
                 "owner": "op7418",
                 "repo": "Humanizer-zh",
-                "stars": 17599,
+                "stars": 17669,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -577,7 +577,7 @@
             {
               "node_type": "item",
               "title": "superpowers",
-              "description": "🦸 Agentic 技能框架与软件开发方法论 288.6K+",
+              "description": "🦸 Agentic 技能框架与软件开发方法论 289.1K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -586,11 +586,11 @@
                 "id": 1073224795,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:32:57Z",
-                "open_issues": 371,
+                "last_commit": "2026-09-20T17:43:04Z",
+                "open_issues": 386,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 289007,
+                "stars": 289551,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -607,7 +607,7 @@
             {
               "node_type": "item",
               "title": "anthropic-skills",
-              "description": "🏛️ Anthropic 官方 Agent Skills 公开仓库 177.1K+",
+              "description": "🏛️ Anthropic 官方 Agent Skills 公开仓库 177.3K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -617,10 +617,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-10T19:44:11Z",
-                "open_issues": 1256,
+                "open_issues": 1263,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 177239,
+                "stars": 177415,
                 "topics": [
                   "agent-skills"
                 ]
@@ -630,7 +630,7 @@
             {
               "node_type": "item",
               "title": "gstack",
-              "description": "🧑‍💼 Garry Tan 的 Claude Code 全套配置：覆盖 CEO、设计、工程与 QA 133.6K+",
+              "description": "🧑‍💼 Garry Tan 的 Claude Code 全套配置：覆盖 CEO、设计、工程与 QA 133.8K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -639,11 +639,11 @@
                 "id": 1179264259,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:38:18Z",
-                "open_issues": 917,
+                "last_commit": "2026-09-20T21:43:08Z",
+                "open_issues": 931,
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 133743,
+                "stars": 133838,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -660,11 +660,11 @@
                 "id": 1246625636,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T10:45:40Z",
-                "open_issues": 140,
+                "last_commit": "2026-09-21T06:27:38Z",
+                "open_issues": 126,
                 "owner": "open-gsd",
                 "repo": "gsd-core",
-                "stars": 9644,
+                "stars": 9674,
                 "topics": [
                   "claude-code",
                   "context-engineering",
@@ -690,7 +690,7 @@
                 "open_issues": 14,
                 "owner": "jnMetaCode",
                 "repo": "superpowers-zh",
-                "stars": 8159,
+                "stars": 8172,
                 "topics": [
                   "agent-skills",
                   "agentic-coding",
@@ -715,7 +715,7 @@
             {
               "node_type": "item",
               "title": "claude-mem",
-              "description": "🧠 自动捕获会话上下文，AI 压缩后注入未来会话，告别遗忘 94.2K+",
+              "description": "🧠 自动捕获会话上下文，AI 压缩后注入未来会话，告别遗忘 94.3K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -724,11 +724,11 @@
                 "id": 1048065319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T10:29:23Z",
-                "open_issues": 234,
+                "last_commit": "2026-09-20T23:56:06Z",
+                "open_issues": 247,
                 "owner": "thedotmack",
                 "repo": "claude-mem",
-                "stars": 94311,
+                "stars": 94378,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -757,7 +757,7 @@
             {
               "node_type": "item",
               "title": "claude-hud",
-              "description": "📊 实时显示上下文用量、活跃工具、运行中 Agent 和 TODO 进度 28K+",
+              "description": "📊 实时显示上下文用量、活跃工具、运行中 Agent 和 TODO 进度 28.1K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -770,7 +770,7 @@
                 "open_issues": 30,
                 "owner": "jarrodwatts",
                 "repo": "claude-hud",
-                "stars": 28068,
+                "stars": 28083,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -795,11 +795,11 @@
                 "id": 1100776768,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T19:05:53Z",
-                "open_issues": 1021,
+                "last_commit": "2026-09-21T03:36:28Z",
+                "open_issues": 1024,
                 "owner": "anthropics",
                 "repo": "claude-plugins-official",
-                "stars": 36529,
+                "stars": 36580,
                 "topics": [
                   "claude-code",
                   "mcp",
@@ -811,7 +811,7 @@
             {
               "node_type": "item",
               "title": "agent-skills",
-              "description": "⚙️ 生产级工程技能集，覆盖前端、后端与 DevOps 96.5K+",
+              "description": "⚙️ 生产级工程技能集，覆盖前端、后端与 DevOps 97.5K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -820,11 +820,11 @@
                 "id": 1158722119,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T03:32:22Z",
-                "open_issues": 111,
+                "last_commit": "2026-09-20T19:31:54Z",
+                "open_issues": 110,
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 97375,
+                "stars": 97990,
                 "topics": [
                   "agent-skills",
                   "antigravity",
@@ -839,7 +839,7 @@
             {
               "node_type": "item",
               "title": "last30days-skill",
-              "description": "📅 近 30 天事件追踪：跨 Reddit / X / YouTube / HN / Polymarket 检索 62.3K+",
+              "description": "📅 近 30 天事件追踪：跨 Reddit / X / YouTube / HN / Polymarket 检索 62.4K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -848,11 +848,11 @@
                 "id": 1140843380,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T20:00:45Z",
-                "open_issues": 112,
+                "last_commit": "2026-09-20T18:43:56Z",
+                "open_issues": 115,
                 "owner": "mvanhorn",
                 "repo": "last30days-skill",
-                "stars": 62396,
+                "stars": 62517,
                 "topics": [
                   "ai-prompts",
                   "ai-skill",
@@ -890,11 +890,11 @@
                 "id": 1103012935,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T11:21:47Z",
-                "open_issues": 8053,
+                "last_commit": "2026-09-21T12:48:34Z",
+                "open_issues": 8274,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 390123,
+                "stars": 390184,
                 "topics": [
                   "ai",
                   "assistant",
@@ -910,7 +910,7 @@
             {
               "node_type": "item",
               "title": "hermes-agent",
-              "description": "🪽 NousResearch 的可成长 Agent：Skills、记忆与工具链一体化 247K+",
+              "description": "🪽 NousResearch 的可成长 Agent：Skills、记忆与工具链一体化 247.4K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,11 +919,11 @@
                 "id": 1024554267,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:17:43Z",
-                "open_issues": 43475,
+                "last_commit": "2026-09-21T12:33:21Z",
+                "open_issues": 43221,
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 247319,
+                "stars": 247648,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -945,7 +945,7 @@
             {
               "node_type": "item",
               "title": "andrej-karpathy-skills",
-              "description": "🧠 Karpathy 编码观察提炼的 CLAUDE.md 行为技能，减少常见 LLM 编程误区 214K+",
+              "description": "🧠 Karpathy 编码观察提炼的 CLAUDE.md 行为技能，减少常见 LLM 编程误区 214.3K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -958,7 +958,7 @@
                 "open_issues": 130,
                 "owner": "multica-ai",
                 "repo": "andrej-karpathy-skills",
-                "stars": 214252,
+                "stars": 214452,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -975,11 +975,11 @@
                 "id": 1141704318,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-14T09:56:58Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-21T08:22:51Z",
+                "open_issues": 4,
                 "owner": "VoltAgent",
                 "repo": "awesome-openclaw-skills",
-                "stars": 52678,
+                "stars": 52702,
                 "topics": [
                   "agent-skills",
                   "awesome",
@@ -1009,11 +1009,11 @@
                 "id": 969302809,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T09:09:52Z",
-                "open_issues": 1089,
+                "last_commit": "2026-09-21T12:14:46Z",
+                "open_issues": 1099,
                 "owner": "hesreallyhim",
                 "repo": "awesome-claude-code",
-                "stars": 54340,
+                "stars": 54383,
                 "topics": [
                   "agent-skills",
                   "agentic-code",
@@ -1050,11 +1050,11 @@
                 "id": 1084853233,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-15T07:12:04Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-21T08:14:17Z",
+                "open_issues": 35,
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 34630,
+                "stars": 34678,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1074,8 +1074,31 @@
             },
             {
               "node_type": "item",
+              "title": "sensedeal/cue-skills",
+              "description": "面向中文用户的 Agent 技能合集：cue-omni-reader 把网页、PDF、扫描件、音频和视频解析成 Markdown，另有 cue-research 深度研究、cue-data-mcp 公共数据查询，附中文 README 与 ，可用 安装；解析能力由 Cue 官方 MCP 提供，需要 且服务可能计费，运行前请确认。 7",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cue Skills for Agents",
+                "homepage": null,
+                "id": 1244140731,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-11T11:55:44Z",
+                "open_issues": 0,
+                "owner": "sensedeal",
+                "repo": "cue-skills",
+                "stars": 7,
+                "topics": [
+                  "dsh-plugin"
+                ]
+              },
+              "first_seen": "2026-09-21T12:48:35.056Z"
+            },
+            {
+              "node_type": "item",
               "title": "vercel-agent-skills",
-              "description": "▲ Vercel 官方 Agent Skills，适合前端、部署与现代 Web 工程工作流 31.3K+",
+              "description": "▲ Vercel 官方 Agent Skills，适合前端、部署与现代 Web 工程工作流 31.4K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1088,7 +1111,7 @@
                 "open_issues": 172,
                 "owner": "vercel-labs",
                 "repo": "agent-skills",
-                "stars": 31387,
+                "stars": 31417,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -1105,11 +1128,11 @@
                 "id": 1000362065,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T20:53:58Z",
-                "open_issues": 68,
+                "last_commit": "2026-09-21T00:44:35Z",
+                "open_issues": 51,
                 "owner": "github",
                 "repo": "awesome-copilot",
-                "stars": 39184,
+                "stars": 39225,
                 "topics": [
                   "agent-skills",
                   "agents",
@@ -1135,11 +1158,11 @@
                 "id": 1197652028,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:26:14Z",
+                "last_commit": "2026-09-21T10:07:17Z",
                 "open_issues": 19,
                 "owner": "google",
                 "repo": "skills",
-                "stars": 20193,
+                "stars": 20228,
                 "topics": [
                   "google",
                   "googlecloud",
@@ -1151,7 +1174,7 @@
             {
               "node_type": "item",
               "title": "scientific-agent-skills",
-              "description": "🔬 148 个科学研究 Skills + 100+ 数据库，覆盖生物、化学、医学与金融数据 45.5K+",
+              "description": "🔬 148 个科学研究 Skills + 100+ 数据库，覆盖生物、化学、医学与金融数据 45.7K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1160,11 +1183,11 @@
                 "id": 1079456184,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T09:27:38Z",
+                "last_commit": "2026-09-21T09:27:50Z",
                 "open_issues": 14,
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 45715,
+                "stars": 45886,
                 "topics": [
                   "agent-skills",
                   "ai-scientist",
@@ -1190,7 +1213,7 @@
             {
               "node_type": "item",
               "title": "NVIDIA/SkillSpector",
-              "description": "🛡️ NVIDIA Agent Skill 安全扫描器：检测 prompt injection、数据外泄和工具投毒 17.8K+",
+              "description": "🛡️ NVIDIA Agent Skill 安全扫描器：检测 prompt injection、数据外泄和工具投毒 17.9K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1200,10 +1223,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T11:36:01Z",
-                "open_issues": 130,
+                "open_issues": 134,
                 "owner": "NVIDIA",
                 "repo": "SkillSpector",
-                "stars": 17878,
+                "stars": 17956,
                 "topics": [
                   "agent-security",
                   "agent-skills",
@@ -1223,7 +1246,7 @@
             {
               "node_type": "item",
               "title": "microsoft/SkillOpt",
-              "description": "🧪 Microsoft Skill 文本优化框架：用轨迹、验证门禁和离线训练迭代可部署技能，支持 Claude Code / Codex 17.2K+",
+              "description": "🧪 Microsoft Skill 文本优化框架：用轨迹、验证门禁和离线训练迭代可部署技能，支持 Claude Code / Codex 17.3K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1233,10 +1256,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-05T17:33:48Z",
-                "open_issues": 47,
+                "open_issues": 49,
                 "owner": "microsoft",
                 "repo": "SkillOpt",
-                "stars": 17283,
+                "stars": 17312,
                 "topics": [
                   "agent-skills",
                   "self-evolving-agents"
@@ -1247,7 +1270,7 @@
             {
               "node_type": "item",
               "title": "awesome-claude-skills",
-              "description": "📚 Composio 维护的 Claude Skills 导航，按研究、设计和生产力等场景分类 75.3K+",
+              "description": "📚 Composio 维护的 Claude Skills 导航，按研究、设计和生产力等场景分类 75.4K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1257,10 +1280,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-18T07:16:11Z",
-                "open_issues": 1486,
+                "open_issues": 1491,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 75367,
+                "stars": 75427,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1286,7 +1309,7 @@
             {
               "node_type": "item",
               "title": "mattpocock/skills",
-              "description": "🧑‍💻 Matt Pocock 的工程 Skills：覆盖代码审查、类型安全、测试与重构 265.4K+",
+              "description": "🧑‍💻 Matt Pocock 的工程 Skills：覆盖代码审查、类型安全、测试与重构 266.3K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1296,10 +1319,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-18T10:12:48Z",
-                "open_issues": 504,
+                "open_issues": 509,
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 266142,
+                "stars": 266852,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -1307,7 +1330,7 @@
             {
               "node_type": "item",
               "title": "open-design",
-              "description": "🎨 19 个设计 Skills + 71 套品牌级设计系统，支持多种 Coding Agent CLI 97K+",
+              "description": "🎨 19 个设计 Skills + 71 套品牌级设计系统，支持多种 Coding Agent CLI 97.2K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1316,11 +1339,11 @@
                 "id": 1223170290,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T11:24:13Z",
-                "open_issues": 1089,
+                "last_commit": "2026-09-21T12:47:55Z",
+                "open_issues": 1097,
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 97200,
+                "stars": 97402,
                 "topics": [
                   "agent-skills",
                   "ai-design",
@@ -1349,7 +1372,7 @@
             {
               "node_type": "item",
               "title": "OpenViking",
-              "description": "🧠 火山引擎 Agent Context Database：统一管理 memory、resources 与 skills 38K+",
+              "description": "🧠 火山引擎 Agent Context Database：统一管理 memory、resources 与 skills 38.2K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1358,11 +1381,11 @@
                 "id": 1128123594,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-20T10:42:51Z",
-                "open_issues": 715,
+                "last_commit": "2026-09-21T12:15:27Z",
+                "open_issues": 702,
                 "owner": "volcengine",
                 "repo": "OpenViking",
-                "stars": 38148,
+                "stars": 38299,
                 "topics": [
                   "agent-memory",
                   "agent-plugins",
@@ -1386,11 +1409,11 @@
                 "id": 805155266,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-20T11:21:46Z",
-                "open_issues": 1602,
+                "last_commit": "2026-09-21T12:45:16Z",
+                "open_issues": 1617,
                 "owner": "CherryHQ",
                 "repo": "cherry-studio",
-                "stars": 52014,
+                "stars": 52047,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -1417,11 +1440,11 @@
                 "id": 1028070615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T08:30:50Z",
-                "open_issues": 120,
+                "last_commit": "2026-09-21T11:46:16Z",
+                "open_issues": 122,
                 "owner": "NevaMind-AI",
                 "repo": "memU",
-                "stars": 14418,
+                "stars": 14419,
                 "topics": [
                   "agent-memory",
                   "claude-skills",
@@ -1440,7 +1463,7 @@
             {
               "node_type": "item",
               "title": "agency-agents",
-              "description": "🏢 完整 AI Agency 代理团队，覆盖工程、增长、社区与交付流程 153.4K+",
+              "description": "🏢 完整 AI Agency 代理团队，覆盖工程、增长、社区与交付流程 153.7K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1449,11 +1472,11 @@
                 "id": 1075372545,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-12T16:57:21Z",
-                "open_issues": 155,
+                "last_commit": "2026-09-21T01:29:22Z",
+                "open_issues": 156,
                 "owner": "msitarzewski",
                 "repo": "agency-agents",
-                "stars": 153639,
+                "stars": 153881,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -1461,7 +1484,7 @@
             {
               "node_type": "item",
               "title": "github/spec-kit",
-              "description": "💫 GitHub 官方规格驱动开发工具包，串联需求、计划、任务与实现 137.9K+",
+              "description": "💫 GitHub 官方规格驱动开发工具包，串联需求、计划、任务与实现 138K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1470,11 +1493,11 @@
                 "id": 1042367133,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T21:02:09Z",
-                "open_issues": 307,
+                "last_commit": "2026-09-21T12:46:13Z",
+                "open_issues": 309,
                 "owner": "github",
                 "repo": "spec-kit",
-                "stars": 138020,
+                "stars": 138149,
                 "topics": [
                   "ai",
                   "copilot",
@@ -1490,7 +1513,7 @@
             {
               "node_type": "item",
               "title": "bytedance/deer-flow",
-              "description": "🦌 字节开源长周期 SuperAgent 框架：沙箱、记忆、Tools、Skills 与 Subagents 82.7K+",
+              "description": "🦌 字节开源长周期 SuperAgent 框架：沙箱、记忆、Tools、Skills 与 Subagents 82.8K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1499,11 +1522,11 @@
                 "id": 979115477,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:23:46Z",
-                "open_issues": 886,
+                "last_commit": "2026-09-20T23:34:10Z",
+                "open_issues": 903,
                 "owner": "bytedance",
                 "repo": "deer-flow",
-                "stars": 82738,
+                "stars": 82799,
                 "topics": [
                   "agent",
                   "agentic",
@@ -1530,7 +1553,7 @@
             {
               "node_type": "item",
               "title": "paperclip",
-              "description": "📎 面向零人公司的开源 Agent 编排平台 81K+",
+              "description": "📎 面向零人公司的开源 Agent 编排平台 81.1K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1539,11 +1562,11 @@
                 "id": 1170821064,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:19:14Z",
-                "open_issues": 5553,
+                "last_commit": "2026-09-21T09:44:57Z",
+                "open_issues": 5568,
                 "owner": "paperclipai",
                 "repo": "paperclip",
-                "stars": 81109,
+                "stars": 81175,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -1560,11 +1583,11 @@
                 "id": 1108837393,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T10:01:52Z",
-                "open_issues": 1050,
+                "last_commit": "2026-09-21T12:41:19Z",
+                "open_issues": 1019,
                 "owner": "code-yeongyu",
                 "repo": "oh-my-openagent",
-                "stars": 69218,
+                "stars": 69248,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -1598,10 +1621,10 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T03:36:24Z",
-                "open_issues": 64,
+                "open_issues": 68,
                 "owner": "nexu-io",
                 "repo": "html-anything",
-                "stars": 8915,
+                "stars": 8925,
                 "topics": [
                   "agent-skills",
                   "agentic",
@@ -1643,7 +1666,7 @@
                 "open_issues": 12,
                 "owner": "op7418",
                 "repo": "guizang-social-card-skill",
-                "stars": 7141,
+                "stars": 7168,
                 "topics": [
                   "agent-skill",
                   "ai-agent",
@@ -1667,7 +1690,7 @@
             {
               "node_type": "item",
               "title": "elementalsouls/Claude-BugHunter",
-              "description": "Bug 挖掘与红队技能包，包含 71 个技能 4.5K+",
+              "description": "Bug 挖掘与红队技能包，包含 71 个技能 4.6K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1676,11 +1699,11 @@
                 "id": 1229774092,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T09:19:24Z",
+                "last_commit": "2026-09-21T09:59:54Z",
                 "open_issues": 3,
                 "owner": "elementalsouls",
                 "repo": "Claude-BugHunter",
-                "stars": 4578,
+                "stars": 4593,
                 "topics": [
                   "ai-security",
                   "anthropic",
@@ -1718,7 +1741,7 @@
                 "open_issues": 1,
                 "owner": "muxuuu",
                 "repo": "serenity-skill",
-                "stars": 4006,
+                "stars": 4011,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1747,7 +1770,7 @@
                 "open_issues": 6,
                 "owner": "DenisSergeevitch",
                 "repo": "agents-best-practices",
-                "stars": 2340,
+                "stars": 2345,
                 "topics": [
                   "agent-skill",
                   "agent-skills",
@@ -1768,7 +1791,7 @@
             {
               "node_type": "item",
               "title": "zhaoxuya520/reverse-skill",
-              "description": "逆向工程与渗透测试 Skill 路由包 36.5K+",
+              "description": "逆向工程与渗透测试 Skill 路由包 36.7K+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1778,10 +1801,10 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T12:25:52Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "zhaoxuya520",
                 "repo": "reverse-skill",
-                "stars": 36640,
+                "stars": 36775,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -1802,7 +1825,7 @@
                 "open_issues": 2,
                 "owner": "JimLiu",
                 "repo": "baoyu-design",
-                "stars": 4097,
+                "stars": 4119,
                 "topics": [
                   "agent-skills",
                   "claude",
@@ -1832,7 +1855,7 @@
                 "open_issues": 52,
                 "owner": "Kaelio",
                 "repo": "ktx",
-                "stars": 1600,
+                "stars": 1601,
                 "topics": [
                   "agent",
                   "agent-skills",
@@ -1877,11 +1900,11 @@
                 "id": 1153564598,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T07:44:22Z",
+                "last_commit": "2026-09-21T07:57:39Z",
                 "open_issues": 3,
                 "owner": "white0dew",
                 "repo": "XiaohongshuSkills",
-                "stars": 3443,
+                "stars": 3447,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -1902,7 +1925,7 @@
                 "open_issues": 3,
                 "owner": "liyown",
                 "repo": "ai-trend-publish",
-                "stars": 3188,
+                "stars": 3189,
                 "topics": [
                   "ai",
                   "weixin"
@@ -2083,7 +2106,7 @@
                 "open_issues": 100,
                 "owner": "op7418",
                 "repo": "Claude-to-IM-skill",
-                "stars": 2881,
+                "stars": 2882,
                 "topics": [
                   "chatbot",
                   "claude",
@@ -2109,11 +2132,11 @@
                 "id": 946169991,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T02:06:37Z",
+                "last_commit": "2026-09-20T23:09:02Z",
                 "open_issues": 197,
                 "owner": "makenotion",
                 "repo": "notion-mcp-server",
-                "stars": 4641,
+                "stars": 4642,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -2160,11 +2183,11 @@
                 "id": 1110782890,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:04:59Z",
-                "open_issues": 80,
+                "last_commit": "2026-09-21T10:57:02Z",
+                "open_issues": 74,
                 "owner": "YishenTu",
                 "repo": "claudian",
-                "stars": 15415,
+                "stars": 15442,
                 "topics": [
                   "claude-code",
                   "codex",
@@ -2213,7 +2236,7 @@
                 "open_issues": 53,
                 "owner": "autoclaw-cc",
                 "repo": "xiaohongshu-skills",
-                "stars": 1907,
+                "stars": 1910,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -2221,7 +2244,7 @@
             {
               "node_type": "item",
               "title": "IanShaw027/wemp-operator",
-              "description": "微信公众号自动化运营 OpenClaw Skill：内容采集、数据分析、互动管理，内置 70 个 API、20+ 数据源，支持直接安装（112⭐）",
+              "description": "微信公众号自动化运营 OpenClaw Skill：内容采集、数据分析、互动管理，内置 70 个 API、20+ 数据源，支持直接安装（113⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2263,7 +2286,7 @@
                 "open_issues": 5,
                 "owner": "geekjourneyx",
                 "repo": "md2wechat-skill",
-                "stars": 3660,
+                "stars": 3662,
                 "topics": [
                   "agent-cli",
                   "ai-agent",
@@ -2305,7 +2328,7 @@
                 "open_issues": 131,
                 "owner": "googleworkspace",
                 "repo": "cli",
-                "stars": 31071,
+                "stars": 31081,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -2330,7 +2353,7 @@
             {
               "node_type": "item",
               "title": "ythx-101/x-tweet-fetcher",
-              "description": "X / 微信文章抓取 Skill：三后端智能回退，支持推文、列表、长文与微信内容检索，适合热点跟踪和自媒体选题（964⭐）",
+              "description": "X / 微信文章抓取 Skill：三后端智能回退，支持推文、列表、长文与微信内容检索，适合热点跟踪和自媒体选题（965⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2373,7 +2396,7 @@
                 "open_issues": 6,
                 "owner": "joeseesun",
                 "repo": "qiaomu-anything-to-notebooklm",
-                "stars": 6110,
+                "stars": 6116,
                 "topics": [
                   "automation",
                   "claude",
@@ -2429,7 +2452,7 @@
             {
               "node_type": "item",
               "title": "vivy-yi/xiaohongshu-skills",
-              "description": "小红书完整运营技能库：139 个 SKILL.md 覆盖内容创作、账号运营、互动运营、数据分析、电商转化、平台规则、工具生态、营销推广、增长策略 9 大分类，安装步骤清晰，适合中文运营场景（451⭐）",
+              "description": "小红书完整运营技能库：139 个 SKILL.md 覆盖内容创作、账号运营、互动运营、数据分析、电商转化、平台规则、工具生态、营销推广、增长策略 9 大分类，安装步骤清晰，适合中文运营场景（455⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2442,7 +2465,7 @@
                 "open_issues": 1,
                 "owner": "vivy-yi",
                 "repo": "xiaohongshu-skills",
-                "stars": 453,
+                "stars": 455,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -2459,8 +2482,8 @@
                 "id": 1154190512,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-15T12:38:24Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-21T09:15:45Z",
+                "open_issues": 20,
                 "owner": "nextlevelbuilder",
                 "repo": "skillx",
                 "stars": 182,
@@ -2492,7 +2515,7 @@
             {
               "node_type": "item",
               "title": "farion1231/cc-switch",
-              "description": "跨平台代理桌面管理器：统一管理 Claude Code / Codex / Gemini CLI / OpenCode / OpenClaw 的账号、模型、配置与切换，中文文档完善、安装包齐全，适合高频多 Agent 用户（133.6K⭐）",
+              "description": "跨平台代理桌面管理器：统一管理 Claude Code / Codex / Gemini CLI / OpenCode / OpenClaw 的账号、模型、配置与切换，中文文档完善、安装包齐全，适合高频多 Agent 用户（133.8K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2501,11 +2524,11 @@
                 "id": 1031912724,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-20T09:44:47Z",
-                "open_issues": 2795,
+                "last_commit": "2026-09-21T03:38:30Z",
+                "open_issues": 2831,
                 "owner": "farion1231",
                 "repo": "cc-switch",
-                "stars": 133784,
+                "stars": 133932,
                 "topics": [
                   "ai-tools",
                   "claude-code",
@@ -2534,7 +2557,7 @@
             {
               "node_type": "item",
               "title": "cso1z/Feishu-MCP",
-              "description": "飞书文档与任务管理 MCP/CLI 工具：支持文档读写、任务 CRUD、用户查询，并可配合 Feishu-Skill 让 Claude Code / Cursor / Cline 自动化操作飞书，安装与配置说明完整（739⭐）",
+              "description": "飞书文档与任务管理 MCP/CLI 工具：支持文档读写、任务 CRUD、用户查询，并可配合 Feishu-Skill 让 Claude Code / Cursor / Cline 自动化操作飞书，安装与配置说明完整（740⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2547,7 +2570,7 @@
                 "open_issues": 26,
                 "owner": "cso1z",
                 "repo": "Feishu-MCP",
-                "stars": 740,
+                "stars": 741,
                 "topics": [
                   "feishu",
                   "lark",
@@ -2569,11 +2592,11 @@
                 "id": 1191372811,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:23:13Z",
-                "open_issues": 702,
+                "last_commit": "2026-09-21T10:03:06Z",
+                "open_issues": 703,
                 "owner": "larksuite",
                 "repo": "cli",
-                "stars": 17332,
+                "stars": 17370,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -2594,7 +2617,7 @@
                 "open_issues": 49,
                 "owner": "obra",
                 "repo": "superpowers-marketplace",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -2602,20 +2625,20 @@
             {
               "node_type": "item",
               "title": "CowAgent",
-              "description": "微信 / 飞书 / 钉钉 / 企微 / QQ / 公众号 / 网页多渠道 AI 助理与 Agent 框架：内置 Skills 引擎、长期记忆、知识库、任务规划和工具调用，支持从 Skill Hub / GitHub 一键安装技能（47K⭐）",
+              "description": "微信 / 飞书 / 钉钉 / 企微 / QQ / 公众号 / 网页多渠道 AI 助理与 Agent 框架：内置 Skills 引擎、长期记忆、知识库、任务规划和工具调用，支持从 Skill Hub / GitHub 一键安装技能（47.1K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+                "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
                 "homepage": "https://cowagent.ai",
                 "id": 522158088,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T10:37:12Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-21T12:37:33Z",
+                "open_issues": 21,
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 47048,
+                "stars": 47061,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -2653,7 +2676,7 @@
                 "open_issues": 251,
                 "owner": "nexu-io",
                 "repo": "nexu",
-                "stars": 3280,
+                "stars": 3281,
                 "topics": [
                   "ai-agent",
                   "byok",
@@ -2691,10 +2714,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-13T06:38:25Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "sansan0",
                 "repo": "TrendRadar",
-                "stars": 62433,
+                "stars": 62459,
                 "topics": [
                   "ai",
                   "bark",
@@ -2732,7 +2755,7 @@
                 "open_issues": 13,
                 "owner": "qiye45",
                 "repo": "wechatDownload",
-                "stars": 9483,
+                "stars": 9500,
                 "topics": [
                   "download",
                   "downloader",
@@ -2779,10 +2802,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-14T09:35:06Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "OpenCoworkAI",
                 "repo": "open-cowork",
-                "stars": 2158,
+                "stars": 2161,
                 "topics": [
                   "ai-agent",
                   "ai-coding",
@@ -2818,7 +2841,7 @@
                 "open_issues": 25,
                 "owner": "Xiangyu-CAS",
                 "repo": "xiaohongshu-ops-skill",
-                "stars": 2365,
+                "stars": 2370,
                 "topics": [
                   "openclaw",
                   "rednote",
@@ -2845,7 +2868,7 @@
                 "open_issues": 101,
                 "owner": "MarkusPfundstein",
                 "repo": "mcp-obsidian",
-                "stars": 4435,
+                "stars": 4437,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -2866,7 +2889,7 @@
                 "open_issues": 5,
                 "owner": "leemysw",
                 "repo": "feishu-docx",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "ai-agent",
                   "claude-skills",
@@ -2886,7 +2909,7 @@
             {
               "node_type": "item",
               "title": "Wechat-ggGitHub/wechat-claude-code",
-              "description": "个人微信接入 Claude Code Skill：把手机微信作为 Claude Code 远程入口，支持图片识别、权限审批、Slash Commands、实时工具进度与高风险命令拦截，适合把开发 Agent 接入移动办公流（684⭐）",
+              "description": "个人微信接入 Claude Code Skill：把手机微信作为 Claude Code 远程入口，支持图片识别、权限审批、Slash Commands、实时工具进度与高风险命令拦截，适合把开发 Agent 接入移动办公流（683⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2899,7 +2922,7 @@
                 "open_issues": 28,
                 "owner": "Wechat-ggGitHub",
                 "repo": "wechat-claude-code",
-                "stars": 683,
+                "stars": 684,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -2939,7 +2962,7 @@
             {
               "node_type": "item",
               "title": "chenxiachan/xhs-claude-skills",
-              "description": "小红书转 Obsidian Claude Code 插件：图文/视频帖子采集、视频转录、Markdown 笔记沉淀，无需 MCP 或浏览器后端，安装前置清晰（418⭐）",
+              "description": "小红书转 Obsidian Claude Code 插件：图文/视频帖子采集、视频转录、Markdown 笔记沉淀，无需 MCP 或浏览器后端，安装前置清晰（419⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2973,7 +2996,7 @@
                 "open_issues": 10,
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6278,
+                "stars": 6283,
                 "topics": [
                   "ai-agents",
                   "n8n",
@@ -2994,11 +3017,11 @@
                 "id": 575321313,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T10:54:46Z",
-                "open_issues": 119,
+                "last_commit": "2026-09-21T11:46:24Z",
+                "open_issues": 120,
                 "owner": "langbot-app",
                 "repo": "LangBot",
-                "stars": 17926,
+                "stars": 17937,
                 "topics": [
                   "agent",
                   "coze",
@@ -3036,11 +3059,11 @@
                 "id": 959050247,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T03:39:24Z",
+                "last_commit": "2026-09-21T09:12:57Z",
                 "open_issues": 1,
                 "owner": "iniwap",
                 "repo": "AIWriteX",
-                "stars": 1996,
+                "stars": 2003,
                 "topics": [
                   "agents",
                   "ai-agents",
@@ -3082,7 +3105,7 @@
                 "open_issues": 19,
                 "owner": "AgriciDaniel",
                 "repo": "claude-ads",
-                "stars": 9437,
+                "stars": 9450,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -3102,7 +3125,7 @@
             {
               "node_type": "item",
               "title": "Affitor/affiliate-skills",
-              "description": "联盟营销 Agent Skills：50 个技能覆盖趋势研究、数据化文章、信息图、落地页、部署与社媒情报飞轮，兼容 Claude Code / Gemini / Cursor / Windsurf（665⭐）",
+              "description": "联盟营销 Agent Skills：50 个技能覆盖趋势研究、数据化文章、信息图、落地页、部署与社媒情报飞轮，兼容 Claude Code / Gemini / Cursor / Windsurf（671⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3144,7 +3167,7 @@
             {
               "node_type": "item",
               "title": "minhnv0807/ai-business-skills",
-              "description": "AI Business Skills：60 个生产级营销 Skills + 5 个 Agents + 15 个 Workflows，覆盖越南、本地化个人品牌、TikTok/Meta 广告、Dropshipping 与全球市场运营，MIT 开源且安装文档完整（584⭐）",
+              "description": "AI Business Skills：60 个生产级营销 Skills + 5 个 Agents + 15 个 Workflows，覆盖越南、本地化个人品牌、TikTok/Meta 广告、Dropshipping 与全球市场运营，MIT 开源且安装文档完整（586⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3157,7 +3180,7 @@
                 "open_issues": 3,
                 "owner": "minhnv0807",
                 "repo": "ai-business-skills",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -3259,7 +3282,7 @@
             {
               "node_type": "item",
               "title": "xhs_content_agent",
-              "description": "小红书内容运营 Agent：用 Playwright 抓取热门笔记、分析爆款规律、生成选题/文案/配图，并支持 API/MCP 一键发布，适合小红书矩阵号与自媒体自动化（304⭐）",
+              "description": "小红书内容运营 Agent：用 Playwright 抓取热门笔记、分析爆款规律、生成选题/文案/配图，并支持 API/MCP 一键发布，适合小红书矩阵号与自媒体自动化（305⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3272,7 +3295,7 @@
                 "open_issues": 0,
                 "owner": "hl897tech",
                 "repo": "xhs_content_agent",
-                "stars": 305,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -3350,7 +3373,7 @@
                 "open_issues": 6,
                 "owner": "zubair-trabzada",
                 "repo": "ai-marketing-claude",
-                "stars": 2666,
+                "stars": 2671,
                 "topics": [
                   "ai-marketing",
                   "claude",
@@ -3378,11 +3401,11 @@
                 "id": 1118625972,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T10:28:40Z",
+                "last_commit": "2026-09-21T11:46:47Z",
                 "open_issues": 0,
                 "owner": "aaron-he-zhu",
                 "repo": "aaron-marketing-skills",
-                "stars": 2807,
+                "stars": 2811,
                 "topics": [
                   "aaron-marketing",
                   "agent-skills",
@@ -3424,15 +3447,15 @@
                 "open_issues": 0,
                 "owner": "OpenClaudia",
                 "repo": "openclaudia-skills",
-                "stars": 696,
+                "stars": 697,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
             },
             {
               "node_type": "item",
-              "title": "Eronred/aso-skills",
-              "description": "App Store Optimization 营销 Agent Skills：关键词研究、元数据优化、竞品分析和 App 增长策略，兼容 Claude Code / Cursor 等 Agent，适合独立开发者和增长团队（2K⭐）",
+              "title": "appeeky/aso-skills",
+              "description": "App Store Optimization 营销 Agent Skills：关键词研究、元数据优化、竞品分析和 App 增长策略，兼容 Claude Code / Cursor 等 Agent，适合独立开发者和增长团队（2.1K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3445,7 +3468,7 @@
                 "open_issues": 0,
                 "owner": "appeeky",
                 "repo": "aso-skills",
-                "stars": 2072,
+                "stars": 2080,
                 "topics": [
                   "app-store-analytics",
                   "app-store-connect",
@@ -3463,7 +3486,7 @@
             {
               "node_type": "item",
               "title": "zubair-trabzada/ai-ads-claude",
-              "description": "Claude Code 广告策略 Skill：生成 Google / Meta / LinkedIn / TikTok / YouTube / Pinterest 广告文案、漏斗、预算分配与 PDF 策略报告（257⭐）",
+              "description": "Claude Code 广告策略 Skill：生成 Google / Meta / LinkedIn / TikTok / YouTube / Pinterest 广告文案、漏斗、预算分配与 PDF 策略报告（259⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3514,7 +3537,7 @@
                 "id": 772408997,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T08:51:02Z",
+                "last_commit": "2026-09-21T01:17:43Z",
                 "open_issues": 3,
                 "owner": "DemonDamon",
                 "repo": "AgenticX",
@@ -3542,7 +3565,7 @@
             {
               "node_type": "item",
               "title": "LAVARONG/wechat-automation-api",
-              "description": "微信 Windows 自动化发送 Agent Skill / HTTP API：基于 UI 自动化支持文本、图片、批量发送和队列管理，非 Hook/非协议（173⭐）",
+              "description": "微信 Windows 自动化发送 Agent Skill / HTTP API：基于 UI 自动化支持文本、图片、批量发送和队列管理，非 Hook/非协议（174⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3555,7 +3578,7 @@
                 "open_issues": 4,
                 "owner": "LAVARONG",
                 "repo": "wechat-automation-api",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "agent-skill",
                   "flask",
@@ -3583,7 +3606,7 @@
                 "open_issues": 21,
                 "owner": "zhimaAi",
                 "repo": "ChatClaw",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "ai-assistant",
                   "ima",
@@ -3610,7 +3633,7 @@
                 "open_issues": 0,
                 "owner": "aitytech",
                 "repo": "agentkits-marketing",
-                "stars": 604,
+                "stars": 605,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -3618,7 +3641,7 @@
             {
               "node_type": "item",
               "title": "kostja94/marketing-skills",
-              "description": "Marketing & SEO Skills for AI Agents：160+ Markdown 技能覆盖 SEO、页面类型、付费广告、渠道和策略，支持 npx skills 安装（980⭐）",
+              "description": "Marketing & SEO Skills for AI Agents：160+ Markdown 技能覆盖 SEO、页面类型、付费广告、渠道和策略，支持 npx skills 安装（984⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3631,7 +3654,7 @@
                 "open_issues": 5,
                 "owner": "kostja94",
                 "repo": "marketing-skills",
-                "stars": 983,
+                "stars": 986,
                 "topics": [
                   "agent-skills",
                   "cursor",
@@ -3660,7 +3683,7 @@
                 "open_issues": 2,
                 "owner": "BrianRWagner",
                 "repo": "ai-marketing-claude-code-skills",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -3677,7 +3700,7 @@
             {
               "node_type": "item",
               "title": "AgriciDaniel/claude-youtube",
-              "description": "YouTube 创作者 Claude Code Skill：14 个子技能覆盖频道审计、视频 SEO、留存脚本、标题缩略图、Shorts、内容日历、变现和竞品分析，README 文档完整且仍活跃（379⭐）",
+              "description": "YouTube 创作者 Claude Code Skill：14 个子技能覆盖频道审计、视频 SEO、留存脚本、标题缩略图、Shorts、内容日历、变现和竞品分析，README 文档完整且仍活跃（381⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3690,7 +3713,7 @@
                 "open_issues": 2,
                 "owner": "AgriciDaniel",
                 "repo": "claude-youtube",
-                "stars": 381,
+                "stars": 384,
                 "topics": [
                   "ai",
                   "ai-content",
@@ -3705,7 +3728,7 @@
             {
               "node_type": "item",
               "title": "sergebulaev/linkedin-skills",
-              "description": "LinkedIn 增长 Claude Code Skills：面向创作者、Founder 和营销团队，覆盖自然帖、评论、信息流分析与发布节奏，适合 B2B 自媒体运营（2.8K⭐）",
+              "description": "LinkedIn 增长 Claude Code Skills：面向创作者、Founder 和营销团队，覆盖自然帖、评论、信息流分析与发布节奏，适合 B2B 自媒体运营（2.9K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3718,7 +3741,7 @@
                 "open_issues": 1,
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 2927,
+                "stars": 2995,
                 "topics": [
                   "agent-skill",
                   "agent-skills",
@@ -3747,7 +3770,7 @@
             {
               "node_type": "item",
               "title": "Linked-API/linkedin-skills",
-              "description": "LinkedIn 自动化 Agent Skills：支持资料检索、企业/人员搜索、消息、连接与内容互动，兼容 Claude Code / Codex / Cursor；依赖 Node.js 20、Linked API Token 和真实云浏览器，操作真实账号前需确认并遵守平台规则（61⭐）",
+              "description": "LinkedIn 自动化 Agent Skills：支持资料检索、企业/人员搜索、消息、连接与内容互动，兼容 Claude Code / Codex / Cursor；依赖 Node.js 20、Linked API Token 和真实云浏览器，操作真实账号前需确认并遵守平台规则（65⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3760,7 +3783,7 @@
                 "open_issues": 0,
                 "owner": "Linked-API",
                 "repo": "linkedin-skills",
-                "stars": 65,
+                "stars": 67,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -3777,7 +3800,7 @@
             {
               "node_type": "item",
               "title": "ijerryhuang/xiaohongshu-auto-operation",
-              "description": "小红书账号全自动运营 OpenClaw Skill：选题、内容生成、封面、定时发布和数据报告全流程自动化，安装依赖与 MCP 配置说明清晰（82⭐）",
+              "description": "小红书账号全自动运营 OpenClaw Skill：选题、内容生成、封面、定时发布和数据报告全流程自动化，安装依赖与 MCP 配置说明清晰（83⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3790,7 +3813,7 @@
                 "open_issues": 0,
                 "owner": "ijerryhuang",
                 "repo": "xiaohongshu-auto-operation",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -3798,7 +3821,7 @@
             {
               "node_type": "item",
               "title": "Panniantong/Agent-Reach",
-              "description": "多平台内容检索 CLI/MCP：无需官方 API 即可读搜 X / Reddit / YouTube / GitHub / B 站 / 小红书，中文 README、安装和 Agent 接入说明完整，适合热点追踪、自媒体选题与竞品情报（83.2K⭐）",
+              "description": "多平台内容检索 CLI/MCP：无需官方 API 即可读搜 X / Reddit / YouTube / GitHub / B 站 / 小红书，中文 README、安装和 Agent 接入说明完整，适合热点追踪、自媒体选题与竞品情报（83.7K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3811,7 +3834,7 @@
                 "open_issues": 154,
                 "owner": "Panniantong",
                 "repo": "Agent-Reach",
-                "stars": 83645,
+                "stars": 84181,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agent",
@@ -3846,11 +3869,11 @@
                 "id": 1031215137,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T04:43:16Z",
+                "last_commit": "2026-09-21T04:43:30Z",
                 "open_issues": 104,
                 "owner": "xpzouying",
                 "repo": "xiaohongshu-mcp",
-                "stars": 15886,
+                "stars": 15906,
                 "topics": [
                   "mcp",
                   "mcp-server",
@@ -3875,7 +3898,7 @@
                 "open_issues": 10,
                 "owner": "BiboyQG",
                 "repo": "WeChat-MCP",
-                "stars": 257,
+                "stars": 259,
                 "topics": [
                   "mcp",
                   "mcp-server",
@@ -3900,7 +3923,7 @@
                 "open_issues": 23,
                 "owner": "iFurySt",
                 "repo": "RedNote-MCP",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": [
                   "ai",
                   "mcp",
@@ -3929,7 +3952,7 @@
                 "open_issues": 2,
                 "owner": "autoclaw-cc",
                 "repo": "xiaohongshu-mcp-skills",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "xiaohongshu-mcp-skills"
                 ]
@@ -3952,7 +3975,7 @@
                 "open_issues": 6,
                 "owner": "agenmod",
                 "repo": "immortal-skill",
-                "stars": 1046,
+                "stars": 1049,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -3987,7 +4010,7 @@
                 "open_issues": 1,
                 "owner": "aiworkskills",
                 "repo": "wechat-article-skills",
-                "stars": 625,
+                "stars": 628,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -4026,10 +4049,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T03:47:07Z",
-                "open_issues": 29,
+                "open_issues": 31,
                 "owner": "KroMiose",
                 "repo": "nekro-agent",
-                "stars": 1124,
+                "stars": 1126,
                 "topics": [
                   "agent",
                   "ai",
@@ -4067,7 +4090,7 @@
             {
               "node_type": "item",
               "title": "nexscope-ai/eCommerce-Skills",
-              "description": "电商运营 Agent Skills：142 个免费技能覆盖 Amazon / Shopify / eBay / Etsy / TikTok Shop / Walmart 的选品、营销自动化、供应链与数据分析，支持 OpenClaw / Claude Code / Cursor / Codex（958⭐）",
+              "description": "电商运营 Agent Skills：142 个免费技能覆盖 Amazon / Shopify / eBay / Etsy / TikTok Shop / Walmart 的选品、营销自动化、供应链与数据分析，支持 OpenClaw / Claude Code / Cursor / Codex（962⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4080,7 +4103,7 @@
                 "open_issues": 4,
                 "owner": "nexscope-ai",
                 "repo": "eCommerce-Skills",
-                "stars": 961,
+                "stars": 966,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -4100,7 +4123,7 @@
             {
               "node_type": "item",
               "title": "pawbytes/skill-suites",
-              "description": "59 个 AI Agent Skill Suites：包含 23 个营销自动化技能、创意代理流程、产品开发与开发者效率模块，支持 npx skills 安装，适合运营流程编排参考（96⭐）",
+              "description": "59 个 AI Agent Skill Suites：包含 23 个营销自动化技能、创意代理流程、产品开发与开发者效率模块，支持 npx skills 安装，适合运营流程编排参考（99⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4113,7 +4136,7 @@
                 "open_issues": 3,
                 "owner": "pawbytes",
                 "repo": "skill-suites",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -4121,7 +4144,7 @@
             {
               "node_type": "item",
               "title": "gtmagents/gtm-agents",
-              "description": "GTM / Revenue Ops Agent Skills：覆盖销售、市场、客户成功和增长运营工作流，面向 Claude Code 的生产级 go-to-market 技能集合，适合 SaaS 团队搭建获客与转化自动化（406⭐）",
+              "description": "GTM / Revenue Ops Agent Skills：覆盖销售、市场、客户成功和增长运营工作流，面向 Claude Code 的生产级 go-to-market 技能集合，适合 SaaS 团队搭建获客与转化自动化（407⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4134,7 +4157,7 @@
                 "open_issues": 100,
                 "owner": "gtmagents",
                 "repo": "gtm-agents",
-                "stars": 406,
+                "stars": 407,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -4155,7 +4178,7 @@
                 "open_issues": 10,
                 "owner": "ArtemXTech",
                 "repo": "personal-os-skills",
-                "stars": 534,
+                "stars": 535,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -4176,7 +4199,7 @@
                 "open_issues": 9,
                 "owner": "huytieu",
                 "repo": "COG-second-brain",
-                "stars": 1205,
+                "stars": 1208,
                 "topics": [
                   "agent-loop",
                   "agent-plugins",
@@ -4214,11 +4237,11 @@
                 "id": 1061403997,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T12:08:57Z",
+                "last_commit": "2026-09-21T12:07:47Z",
                 "open_issues": 19,
                 "owner": "bitbonsai",
                 "repo": "mcpvault",
-                "stars": 1671,
+                "stars": 1672,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -4289,11 +4312,11 @@
                 "id": 1192745137,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T07:56:34Z",
+                "last_commit": "2026-09-21T08:00:28Z",
                 "open_issues": 6,
                 "owner": "imraywang",
                 "repo": "wewrite",
-                "stars": 3336,
+                "stars": 3339,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -4343,7 +4366,7 @@
             {
               "node_type": "item",
               "title": "Varnan-Tech/opendirectory",
-              "description": "GTM / 技术营销 / 增长自动化 Agent Skills 目录：51 个预置技能，支持 Claude、Codex、Gemini CLI，通过 npm 一键安装，README 展示完整分类与安装路径（657⭐）",
+              "description": "GTM / 技术营销 / 增长自动化 Agent Skills 目录：51 个预置技能，支持 Claude、Codex、Gemini CLI，通过 npm 一键安装，README 展示完整分类与安装路径（659⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4356,7 +4379,7 @@
                 "open_issues": 3,
                 "owner": "Varnan-Tech",
                 "repo": "opendirectory",
-                "stars": 658,
+                "stars": 660,
                 "topics": [
                   "agent-skills",
                   "gtm",
@@ -4463,7 +4486,7 @@
             {
               "node_type": "item",
               "title": "ParthJadhav/ios-marketing-capture",
-              "description": "iOS App 营销截图采集 Skill：为 SwiftUI 应用自动植入 DEBUG 截图系统、填充演示数据并按多语言批量导出素材，适合独立开发者做 App Store 上架与本地化营销（259⭐）",
+              "description": "iOS App 营销截图采集 Skill：为 SwiftUI 应用自动植入 DEBUG 截图系统、填充演示数据并按多语言批量导出素材，适合独立开发者做 App Store 上架与本地化营销（260⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4476,7 +4499,7 @@
                 "open_issues": 0,
                 "owner": "ParthJadhav",
                 "repo": "ios-marketing-capture",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "app-store",
                   "claude-code",
@@ -4690,7 +4713,7 @@
                 "open_issues": 44,
                 "owner": "wechatsync",
                 "repo": "Wechatsync",
-                "stars": 6326,
+                "stars": 6336,
                 "topics": [
                   "blog",
                   "chrome",
@@ -4810,7 +4833,7 @@
                 "open_issues": 1,
                 "owner": "YYH211",
                 "repo": "xiaohongshu",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -4931,7 +4954,7 @@
             {
               "node_type": "item",
               "title": "CosmoBlk/email-marketing-bible",
-              "description": "Email Marketing Bible Claude Code Skill：68,000 词、908 个来源、19 个行业 playbook 和 57 个邮件设计案例，覆盖邮件审计、自动化流程、冷邮件、合规与投放文案，一行 git clone 安装，适合跨境电商 / SaaS 增长团队（303⭐）",
+              "description": "Email Marketing Bible Claude Code Skill：68,000 词、908 个来源、19 个行业 playbook 和 57 个邮件设计案例，覆盖邮件审计、自动化流程、冷邮件、合规与投放文案，一行 git clone 安装，适合跨境电商 / SaaS 增长团队（311⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4944,7 +4967,7 @@
                 "open_issues": 1,
                 "owner": "CosmoBlk",
                 "repo": "email-marketing-bible",
-                "stars": 310,
+                "stars": 313,
                 "topics": [
                   "agent-skills",
                   "ai-skill",
@@ -4971,11 +4994,11 @@
                 "id": 1160693255,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T06:37:22Z",
+                "last_commit": "2026-09-21T06:52:35Z",
                 "open_issues": 23,
                 "owner": "zubair-trabzada",
                 "repo": "geo-seo-claude",
-                "stars": 10732,
+                "stars": 10764,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -4996,7 +5019,7 @@
                 "open_issues": 4,
                 "owner": "SamurAIGPT",
                 "repo": "Generative-Media-Skills",
-                "stars": 4308,
+                "stars": 4314,
                 "topics": [
                   "agent-skills",
                   "agent-tools",
@@ -5025,7 +5048,7 @@
             {
               "node_type": "item",
               "title": "n8n-claw",
-              "description": "基于 n8n 的自托管 OpenClaw-like AI Agent：PostgreSQL 记忆、MCP Skills Library、专家代理、Telegram/HTTP 接入和定时任务，安装文档完整，适合无代码团队把运营自动化部署到私有基础设施（558⭐）",
+              "description": "基于 n8n 的自托管 OpenClaw-like AI Agent：PostgreSQL 记忆、MCP Skills Library、专家代理、Telegram/HTTP 接入和定时任务，安装文档完整，适合无代码团队把运营自动化部署到私有基础设施（559⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5038,7 +5061,7 @@
                 "open_issues": 5,
                 "owner": "freddy-schuetz",
                 "repo": "n8n-claw",
-                "stars": 559,
+                "stars": 560,
                 "topics": [
                   "agent",
                   "ai",
@@ -5064,7 +5087,7 @@
             {
               "node_type": "item",
               "title": "social-media-skills",
-              "description": "社媒策略与内容 Agent Skills：覆盖平台上下文、内容策略、发布日历、平台策略、创作与分析，适合把 LinkedIn / X / Instagram / TikTok 等账号运营方法论沉淀成可复用技能（517⭐）",
+              "description": "社媒策略与内容 Agent Skills：覆盖平台上下文、内容策略、发布日历、平台策略、创作与分析，适合把 LinkedIn / X / Instagram / TikTok 等账号运营方法论沉淀成可复用技能（518⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5077,7 +5100,7 @@
                 "open_issues": 1,
                 "owner": "blacktwist",
                 "repo": "social-media-skills",
-                "stars": 518,
+                "stars": 521,
                 "topics": [
                   "ai-agents",
                   "ai-writing",
@@ -5228,7 +5251,7 @@
             {
               "node_type": "item",
               "title": "ZeroPointRepo/youtube-skills",
-              "description": "YouTube Transcript API Agent Skills：支持字幕提取、视频搜索、频道浏览和播放列表解析，兼容 OpenClaw / Hermes Agent / Claude Code / Cursor / Windsurf，README 安装和 API Key 配置清晰（883⭐）",
+              "description": "YouTube Transcript API Agent Skills：支持字幕提取、视频搜索、频道浏览和播放列表解析，兼容 OpenClaw / Hermes Agent / Claude Code / Cursor / Windsurf，README 安装和 API Key 配置清晰（893⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5237,11 +5260,11 @@
                 "id": 1147294830,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-20T09:23:39Z",
+                "last_commit": "2026-09-21T11:41:36Z",
                 "open_issues": 4,
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 890,
+                "stars": 898,
                 "topics": [
                   "agent-skills",
                   "clawdbot",
@@ -5298,7 +5321,7 @@
             {
               "node_type": "item",
               "title": "wxkingstar/SpecFusion",
-              "description": "中国开放平台 API 文档搜索 MCP/CLI：在 Claude Code / Cursor / Gemini CLI 里直接查询企业微信、飞书、钉钉、小红书、抖音电商、微信支付等 18 个平台文档（67⭐）",
+              "description": "中国开放平台 API 文档搜索 MCP/CLI：在 Claude Code / Cursor / Gemini CLI 里直接查询企业微信、飞书、钉钉、小红书、抖音电商、微信支付等 18 个平台文档（68⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5311,7 +5334,7 @@
                 "open_issues": 0,
                 "owner": "wxkingstar",
                 "repo": "SpecFusion",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "ai-agents",
                   "alipay",
@@ -5340,7 +5363,7 @@
             {
               "node_type": "item",
               "title": "MaxKmet/idea-validation-agents",
-              "description": "创业想法验证 Agent Skills：从 idea brainstorming 到市场验证、GTM 策略和机会评估，兼容 Claude Code / Codex / Cursor，适合独立开发者和增长团队快速筛选项目（464⭐）",
+              "description": "创业想法验证 Agent Skills：从 idea brainstorming 到市场验证、GTM 策略和机会评估，兼容 Claude Code / Codex / Cursor，适合独立开发者和增长团队快速筛选项目（463⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5353,7 +5376,7 @@
                 "open_issues": 1,
                 "owner": "MaxKmet",
                 "repo": "idea-validation-agents",
-                "stars": 463,
+                "stars": 465,
                 "topics": [
                   "ai-agents",
                   "ai-skills",
@@ -5434,7 +5457,7 @@
             {
               "node_type": "item",
               "title": "claude-seo",
-              "description": "Claude Code SEO 审计插件：25 个子技能 + 18 个专家 Agent 并行覆盖技术 SEO、内容质量（E-E-A-T）、Schema.org、AI 搜索优化（GEO）、本地 / 电商 / 国际 SEO，输出按优先级排序的行动计划；MIT 开源版可通过 安装（17.2K⭐）",
+              "description": "Claude Code SEO 审计插件：25 个子技能 + 18 个专家 Agent 并行覆盖技术 SEO、内容质量（E-E-A-T）、Schema.org、AI 搜索优化（GEO）、本地 / 电商 / 国际 SEO，输出按优先级排序的行动计划；MIT 开源版可通过 安装（17.3K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5444,10 +5467,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-11T13:46:21Z",
-                "open_issues": 22,
+                "open_issues": 24,
                 "owner": "AgriciDaniel",
                 "repo": "claude-seo",
-                "stars": 17274,
+                "stars": 17343,
                 "topics": [
                   "ai",
                   "ai-seo",
@@ -5483,7 +5506,7 @@
                 "open_issues": 8,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5964,
+                "stars": 5969,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -5525,7 +5548,7 @@
                 "open_issues": 5,
                 "owner": "ciembor",
                 "repo": "agent-rules-books",
-                "stars": 2831,
+                "stars": 2838,
                 "topics": [
                   "agent-rules",
                   "agent-skills",
@@ -5553,7 +5576,7 @@
             {
               "node_type": "item",
               "title": "skillhawk",
-              "description": "Agent Skill / MCP 安全扫描器：提供零依赖 CLI、SARIF 输出和可运行实验，安装前检查 SKILL.md、提示注入、危险命令与权限边界；扫描结果不能替代人工审计，高风险技能仍应在隔离环境验证（61⭐）",
+              "description": "Agent Skill / MCP 安全扫描器：提供零依赖 CLI、SARIF 输出和可运行实验，安装前检查 SKILL.md、提示注入、危险命令与权限边界；扫描结果不能替代人工审计，高风险技能仍应在隔离环境验证（63⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5562,11 +5585,11 @@
                 "id": 1335864397,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T07:54:18Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-21T08:10:47Z",
+                "open_issues": 61,
                 "owner": "Berserk-hub150",
                 "repo": "skillhawk",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -5592,7 +5615,7 @@
                 "id": 1330846135,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T14:16:23Z",
+                "last_commit": "2026-09-21T06:07:12Z",
                 "open_issues": 5,
                 "owner": "alifurkangokce",
                 "repo": "driftlint",
@@ -5652,11 +5675,11 @@
                 "id": 1316443307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:40:14Z",
+                "last_commit": "2026-09-21T09:48:07Z",
                 "open_issues": 36,
                 "owner": "microsoft",
                 "repo": "skill-recorder",
-                "stars": 4017,
+                "stars": 4044,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -5685,10 +5708,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-28T02:13:16Z",
-                "open_issues": 95,
+                "open_issues": 96,
                 "owner": "firecrawl",
                 "repo": "anydoc",
-                "stars": 21828,
+                "stars": 21875,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -5706,10 +5729,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-17T20:57:23Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "petergyang",
                 "repo": "human-review",
-                "stars": 1275,
+                "stars": 1276,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -5776,7 +5799,7 @@
                 "open_issues": 9,
                 "owner": "Anionex",
                 "repo": "agent-vision-toolkit",
-                "stars": 1204,
+                "stars": 1205,
                 "topics": [
                   "agent",
                   "agent-skills",
@@ -5841,7 +5864,7 @@
             {
               "node_type": "item",
               "title": "robotics-agent-skills",
-              "description": "🤖 机器人开发技能集：ROS1/ROS2、设计模式、感知系统、Docker（362⭐）",
+              "description": "🤖 机器人开发技能集：ROS1/ROS2、设计模式、感知系统、Docker（363⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5854,7 +5877,7 @@
                 "open_issues": 1,
                 "owner": "arpitg1304",
                 "repo": "robotics-agent-skills",
-                "stars": 363,
+                "stars": 365,
                 "topics": [
                   "agent-skills",
                   "ai-coding-assistant",
@@ -5867,7 +5890,7 @@
             {
               "node_type": "item",
               "title": "skill-optimizer",
-              "description": "🔧 Skill 诊断优化工具：基于真实会话数据的静态分析（169⭐）",
+              "description": "🔧 Skill 诊断优化工具：基于真实会话数据的静态分析（170⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5880,7 +5903,7 @@
                 "open_issues": 1,
                 "owner": "hqhq1025",
                 "repo": "skill-optimizer",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "agent-skills",
                   "agentskills",
@@ -5994,7 +6017,7 @@
                 "open_issues": 4,
                 "owner": "uditgoenka",
                 "repo": "autoresearch",
-                "stars": 6342,
+                "stars": 6346,
                 "topics": [
                   "ai",
                   "autonomous-agent",
@@ -6025,15 +6048,15 @@
                 "open_issues": 11,
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 4806,
+                "stars": 4816,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
             },
             {
               "node_type": "item",
-              "title": "plugins-plus-skills",
-              "description": "Claude Code 插件市场：425 插件 + 2,810 技能 + 200 代理，提供 CLI 与网站检索，适合批量发现、安装和治理团队技能（2.8K⭐）",
+              "title": "tons-of-skills-marketplace",
+              "description": "Claude Code 插件与技能市场：434 插件 + 2,900 技能，提供 CLI 与网站检索，适合批量发现、安装和治理团队技能（2.8K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6042,8 +6065,8 @@
                 "id": 1073337396,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T10:18:51Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-21T10:17:10Z",
+                "open_issues": 27,
                 "owner": "jeremylongshore",
                 "repo": "tons-of-skills-marketplace",
                 "stars": 2780,
@@ -6084,7 +6107,7 @@
                 "open_issues": 0,
                 "owner": "wednesday-solutions",
                 "repo": "ai-agent-skills",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "agent-skills",
                   "ai-agent-skills",
@@ -6103,7 +6126,7 @@
             {
               "node_type": "item",
               "title": "slavingia-skills",
-              "description": "基于《极简创业者》理念的实用技能集（10.4K⭐）",
+              "description": "基于《极简创业者》理念的实用技能集（10.5K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6116,7 +6139,7 @@
                 "open_issues": 3,
                 "owner": "slavingia",
                 "repo": "skills",
-                "stars": 10461,
+                "stars": 10462,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -6133,11 +6156,11 @@
                 "id": 1134447175,
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-09-16T22:05:12Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-21T11:20:35Z",
+                "open_issues": 28,
                 "owner": "trailofbits",
                 "repo": "skills",
-                "stars": 7171,
+                "stars": 7192,
                 "topics": [
                   "agent-skills"
                 ]
@@ -6147,7 +6170,7 @@
             {
               "node_type": "item",
               "title": "skill-factory",
-              "description": "技能工厂：一键生成、测试、发布 Claude Code 技能（868⭐）",
+              "description": "技能工厂：一键生成、测试、发布 Claude Code 技能（869⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6188,7 +6211,7 @@
                 "open_issues": 34,
                 "owner": "Jeffallan",
                 "repo": "claude-skills",
-                "stars": 11546,
+                "stars": 11554,
                 "topics": [
                   "ai-agents",
                   "claude",
@@ -6211,11 +6234,11 @@
                 "id": 1081140442,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:11:31Z",
+                "last_commit": "2026-09-21T12:13:04Z",
                 "open_issues": 14,
                 "owner": "daymade",
                 "repo": "claude-code-skills",
-                "stars": 1410,
+                "stars": 1413,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -6236,7 +6259,7 @@
                 "open_issues": 7,
                 "owner": "glitternetwork",
                 "repo": "pinme",
-                "stars": 3748,
+                "stars": 3747,
                 "topics": [
                   "ai-tools",
                   "claude-code-skill",
@@ -6273,7 +6296,7 @@
                 "open_issues": 7,
                 "owner": "lackeyjb",
                 "repo": "playwright-skill",
-                "stars": 3129,
+                "stars": 3133,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -6305,7 +6328,7 @@
                 "open_issues": 8,
                 "owner": "SimoneAvogadro",
                 "repo": "android-reverse-engineering-skill",
-                "stars": 7875,
+                "stars": 7880,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -6326,7 +6349,7 @@
                 "open_issues": 2,
                 "owner": "skills-directory",
                 "repo": "skill-codex",
-                "stars": 1443,
+                "stars": 1444,
                 "topics": [
                   "claude",
                   "claude-code",
@@ -6347,11 +6370,11 @@
                 "id": 1079356098,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T05:57:42Z",
-                "open_issues": 41,
+                "last_commit": "2026-09-21T04:33:42Z",
+                "open_issues": 48,
                 "owner": "tradermonty",
                 "repo": "claude-trading-skills",
-                "stars": 2863,
+                "stars": 2870,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -6380,7 +6403,7 @@
             {
               "node_type": "item",
               "title": "dotnet/skills",
-              "description": ".NET 团队维护的 Agent Skills / Plugins：覆盖 C#、ASP.NET Core、Blazor、数据访问、MSBuild、NuGet、升级、测试、诊断、MAUI 与 .NET AI / MCP，提供 Claude Code / Copilot、Cursor 和 Codex 安装路径（5.4K⭐）",
+              "description": ".NET 团队维护的 Agent Skills / Plugins：覆盖 C#、ASP.NET Core、Blazor、数据访问、MSBuild、NuGet、升级、测试、诊断、MAUI 与 .NET AI / MCP，提供 Claude Code / Copilot、Cursor 和 Codex 安装路径（5.5K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6389,11 +6412,11 @@
                 "id": 1149257427,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-19T17:00:09Z",
+                "last_commit": "2026-09-21T12:12:25Z",
                 "open_issues": 90,
                 "owner": "dotnet",
                 "repo": "skills",
-                "stars": 5453,
+                "stars": 5456,
                 "topics": [
                   "agent-skills"
                 ]
@@ -6434,10 +6457,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-12T07:37:08Z",
-                "open_issues": 479,
+                "open_issues": 481,
                 "owner": "supabase",
                 "repo": "agent-skills",
-                "stars": 2637,
+                "stars": 2640,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -6480,8 +6503,8 @@
                 "id": 1093380648,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T10:47:41Z",
-                "open_issues": 48,
+                "last_commit": "2026-09-21T11:02:29Z",
+                "open_issues": 47,
                 "owner": "getsentry",
                 "repo": "sentry-for-ai",
                 "stars": 265,
@@ -6503,7 +6526,7 @@
                 "id": 1252335022,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T16:03:47Z",
+                "last_commit": "2026-09-21T12:39:51Z",
                 "open_issues": 2,
                 "owner": "Tencent-RTC",
                 "repo": "agent-skills",
@@ -6591,8 +6614,8 @@
                 "id": 1146293274,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-19T21:50:35Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-21T00:35:25Z",
+                "open_issues": 12,
                 "owner": "ombulabs",
                 "repo": "claude-code_rails-upgrade-skill",
                 "stars": 386,
@@ -6609,7 +6632,7 @@
             {
               "node_type": "item",
               "title": "apple-skills",
-              "description": "iOS/macOS/iPadOS 开发专用技能集（746⭐）",
+              "description": "iOS/macOS/iPadOS 开发专用技能集（750⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6622,7 +6645,7 @@
                 "open_issues": 2,
                 "owner": "rshankras",
                 "repo": "claude-code-apple-skills",
-                "stars": 750,
+                "stars": 753,
                 "topics": [
                   "agent-skills",
                   "ai-tools",
@@ -6650,7 +6673,7 @@
             {
               "node_type": "item",
               "title": "scrapling",
-              "description": "智能网页爬虫，自动 Fetcher 选择 + 反爬绕过（428⭐）",
+              "description": "智能网页爬虫，自动 Fetcher 选择 + 反爬绕过（426⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6671,7 +6694,7 @@
             {
               "node_type": "item",
               "title": "context-mode",
-              "description": "上下文窗口优化：工具输出沙箱化，减少 98%，支持 14 平台（23.6K⭐）",
+              "description": "上下文窗口优化：工具输出沙箱化，减少 98%，支持 14 平台（23.7K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6680,11 +6703,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T12:05:41Z",
-                "open_issues": 263,
+                "last_commit": "2026-09-21T12:06:47Z",
+                "open_issues": 266,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 23729,
+                "stars": 23841,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -6726,7 +6749,7 @@
                 "open_issues": 18,
                 "owner": "diet103",
                 "repo": "claude-code-infrastructure-showcase",
-                "stars": 10024,
+                "stars": 10023,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -6747,7 +6770,7 @@
                 "open_issues": 11,
                 "owner": "Shpigford",
                 "repo": "chops",
-                "stars": 1904,
+                "stars": 1918,
                 "topics": [
                   "agents",
                   "ai",
@@ -6774,7 +6797,7 @@
                 "open_issues": 1,
                 "owner": "utkusen",
                 "repo": "sast-skills",
-                "stars": 1317,
+                "stars": 1318,
                 "topics": [
                   "ai-security",
                   "claude",
@@ -6800,7 +6823,7 @@
                 "open_issues": 49,
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 33012,
+                "stars": 33063,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -6842,7 +6865,7 @@
                 "open_issues": 6,
                 "owner": "samber",
                 "repo": "cc-skills-golang",
-                "stars": 3287,
+                "stars": 3295,
                 "topics": [
                   "agent",
                   "agent-skills",
@@ -6883,7 +6906,7 @@
                 "open_issues": 13,
                 "owner": "zarazhangrui",
                 "repo": "codebase-to-course",
-                "stars": 5573,
+                "stars": 5579,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -6904,7 +6927,7 @@
                 "open_issues": 47,
                 "owner": "parcadei",
                 "repo": "Continuous-Claude-v3",
-                "stars": 3944,
+                "stars": 3942,
                 "topics": [
                   "agents",
                   "claude-code",
@@ -6932,7 +6955,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-03-04T18:16:25Z",
-                "open_issues": 37,
+                "open_issues": 36,
                 "owner": "disler",
                 "repo": "claude-code-hooks-mastery",
                 "stars": 3925,
@@ -6956,7 +6979,7 @@
                 "open_issues": 0,
                 "owner": "yizhiyanhua-ai",
                 "repo": "fireworks-tech-graph",
-                "stars": 11489,
+                "stars": 11502,
                 "topics": [
                   "agent-workflows",
                   "ai",
@@ -6980,11 +7003,11 @@
                 "id": 1134819911,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-20T10:00:37Z",
+                "last_commit": "2026-09-21T07:10:18Z",
                 "open_issues": 0,
                 "owner": "nyldn",
                 "repo": "claude-octopus",
-                "stars": 4090,
+                "stars": 4092,
                 "topics": [
                   "ai-agents",
                   "ai-orchestration",
@@ -7039,7 +7062,7 @@
                 "open_issues": 3,
                 "owner": "alchaincyf",
                 "repo": "huashu-design",
-                "stars": 24306,
+                "stars": 24340,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7060,7 +7083,7 @@
                 "open_issues": 4,
                 "owner": "alchaincyf",
                 "repo": "darwin-skill",
-                "stars": 6041,
+                "stars": 6059,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7068,7 +7091,7 @@
             {
               "node_type": "item",
               "title": "claude-forge",
-              "description": "11 个 AI Agent + 36 命令 + 15 技能，类 oh-my-zsh 插件框架（838⭐）",
+              "description": "11 个 AI Agent + 36 命令 + 15 技能，类 oh-my-zsh 插件框架（839⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7081,7 +7104,7 @@
                 "open_issues": 29,
                 "owner": "sangrokjung",
                 "repo": "claude-forge",
-                "stars": 839,
+                "stars": 841,
                 "topics": [
                   "agents",
                   "ai-assistant",
@@ -7131,7 +7154,7 @@
             {
               "node_type": "item",
               "title": "cartographer",
-              "description": "用并行子 Agent 映射和文档化任意规模代码库（705⭐）",
+              "description": "用并行子 Agent 映射和文档化任意规模代码库（710⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7144,15 +7167,15 @@
                 "open_issues": 6,
                 "owner": "kingbootoshi",
                 "repo": "cartographer",
-                "stars": 709,
+                "stars": 716,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
             },
             {
               "node_type": "item",
-              "title": "agent-skill-creator",
-              "description": "将任意工作流转化为可复用的 AI Agent 技能，支持 14+ 工具（2.4K⭐）",
+              "title": "agent-skills-platform",
+              "description": "将真实工作流转化为经过测试的 Agent 技能，并用自建技能市场治理其生命周期：证据、发现、更新、回滚、隔离与多平台分发（2.4K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7165,7 +7188,7 @@
                 "open_issues": 3,
                 "owner": "FrancyJGLisboa",
                 "repo": "agent-skills-platform",
-                "stars": 2400,
+                "stars": 2401,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -7197,7 +7220,7 @@
                 "open_issues": 0,
                 "owner": "Agents365-ai",
                 "repo": "drawio-skill",
-                "stars": 9495,
+                "stars": 9548,
                 "topics": [
                   "agent-skills",
                   "architecture",
@@ -7263,7 +7286,7 @@
             },
             {
               "node_type": "item",
-              "title": "awesome-claude-code-config",
+              "title": "awesome-agent-config",
               "description": "生产级 Claude Code 配置：自改进循环 + 多语言规则 + MCP 集成（259⭐）",
               "children": [],
               "repo_info": {
@@ -7294,8 +7317,8 @@
                 "id": 1146336156,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T19:47:01Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-20T21:24:48Z",
+                "open_issues": 0,
                 "owner": "agent-sh",
                 "repo": "agnix",
                 "stars": 421,
@@ -7327,7 +7350,7 @@
             {
               "node_type": "item",
               "title": "writing-style-skill",
-              "description": "写作风格技能模板，AI 写作→你编辑→自动学习→规则迭代（268⭐）",
+              "description": "写作风格技能模板，AI 写作→你编辑→自动学习→规则迭代（269⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7340,7 +7363,7 @@
                 "open_issues": 1,
                 "owner": "jzOcb",
                 "repo": "writing-style-skill",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7402,7 +7425,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3973,
+                "stars": 3976,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7423,7 +7446,7 @@
                 "open_issues": 299,
                 "owner": "openai",
                 "repo": "skills",
-                "stars": 27494,
+                "stars": 27522,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7431,7 +7454,7 @@
             {
               "node_type": "item",
               "title": "awesome-codex-skills",
-              "description": "Codex 实用技能精选清单：覆盖开发、协作、沟通、数据分析等多类可安装 skills，并提供 GitHub 路径安装器（16.5K⭐）",
+              "description": "Codex 实用技能精选清单：覆盖开发、协作、沟通、数据分析等多类可安装 skills，并提供 GitHub 路径安装器（16.6K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7441,10 +7464,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-07-26T01:14:54Z",
-                "open_issues": 223,
+                "open_issues": 224,
                 "owner": "composio-community",
                 "repo": "awesome-codex-skills",
-                "stars": 16554,
+                "stars": 16577,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -7478,7 +7501,7 @@
                 "open_issues": 58,
                 "owner": "huggingface",
                 "repo": "skills",
-                "stars": 11072,
+                "stars": 11075,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7531,7 +7554,7 @@
                 "open_issues": 0,
                 "owner": "abpframework",
                 "repo": "abp-skills",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7552,7 +7575,7 @@
                 "open_issues": 14,
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3384,
+                "stars": 3390,
                 "topics": [
                   "agent-skills",
                   "agentic-ai",
@@ -7584,11 +7607,11 @@
                 "id": 1265265111,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T02:26:15Z",
+                "last_commit": "2026-09-21T01:01:24Z",
                 "open_issues": 5,
                 "owner": "BuilderIO",
                 "repo": "skills",
-                "stars": 4330,
+                "stars": 4339,
                 "topics": [
                   "skills"
                 ]
@@ -7636,7 +7659,7 @@
                 "open_issues": 5,
                 "owner": "Forward-Future",
                 "repo": "loopy",
-                "stars": 3146,
+                "stars": 3148,
                 "topics": [
                   "agent-skills",
                   "agentic-workflows",
@@ -7651,7 +7674,7 @@
             {
               "node_type": "item",
               "title": "skills-manager",
-              "description": "轻量级跨工具技能管理桌面应用：支持 Claude Code / Cursor / Codex / Copilot 等 15+ 工具的统一安装、同步、场景切换、项目工作区与 Git 备份，中文说明完善、截图清晰，适合重度技能用户集中管理（4.8K⭐）",
+              "description": "轻量级跨工具技能管理桌面应用：支持 Claude Code / Cursor / Codex / Copilot 等 15+ 工具的统一安装、同步、场景切换、项目工作区与 Git 备份，中文说明完善、截图清晰，适合重度技能用户集中管理（4.9K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7661,10 +7684,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-17T03:16:02Z",
-                "open_issues": 217,
+                "open_issues": 219,
                 "owner": "xingkongliang",
                 "repo": "skills-manager",
-                "stars": 4858,
+                "stars": 4883,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7672,7 +7695,7 @@
             {
               "node_type": "item",
               "title": "vercel-labs/skills",
-              "description": "Vercel 出品的开放 Agent Skills CLI：支持 OpenCode / Claude Code / Codex / Cursor 等 40+ Agent，提供安装、搜索、更新、初始化全流程（32K⭐）",
+              "description": "Vercel 出品的开放 Agent Skills CLI：支持 OpenCode / Claude Code / Codex / Cursor 等 40+ Agent，提供安装、搜索、更新、初始化全流程（32.1K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7682,10 +7705,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T21:17:25Z",
-                "open_issues": 1203,
+                "open_issues": 1201,
                 "owner": "vercel-labs",
                 "repo": "skills",
-                "stars": 32058,
+                "stars": 32150,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7706,7 +7729,7 @@
                 "open_issues": 9,
                 "owner": "Dimillian",
                 "repo": "CodexSkillManager",
-                "stars": 1373,
+                "stars": 1372,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7714,7 +7737,7 @@
             {
               "node_type": "item",
               "title": "ui-design-brain",
-              "description": "Cursor UI 设计技能：基于 component.gallery 沉淀 60+ 组件最佳实践、布局模式、反模式与设计哲学，安装清晰，适合生成更像资深设计师产出的前端界面（885⭐）",
+              "description": "Cursor UI 设计技能：基于 component.gallery 沉淀 60+ 组件最佳实践、布局模式、反模式与设计哲学，安装清晰，适合生成更像资深设计师产出的前端界面（886⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7727,7 +7750,7 @@
                 "open_issues": 0,
                 "owner": "carmahhawwari",
                 "repo": "ui-design-brain",
-                "stars": 886,
+                "stars": 887,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7748,7 +7771,7 @@
                 "open_issues": 9,
                 "owner": "DrCatHicks",
                 "repo": "learning-opportunities",
-                "stars": 2446,
+                "stars": 2448,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7769,7 +7792,7 @@
                 "open_issues": 796,
                 "owner": "anthropics",
                 "repo": "claude-code-action",
-                "stars": 8910,
+                "stars": 8916,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7828,10 +7851,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-01-18T13:09:50Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "numman-ali",
                 "repo": "openskills",
-                "stars": 10764,
+                "stars": 10765,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -7839,7 +7862,7 @@
             {
               "node_type": "item",
               "title": "AionUi",
-              "description": "本地开源 24/7 Cowork / OpenClaw 桌面应用：内置 Agent 与 Office/PPT/Excel/Word skills，支持 Claude Code、Codex、Hermes、OpenClaw 等 20+ CLI 自动检测、WebUI 远程访问和定时任务，适合办公自动化与多代理协作（32.9K⭐）",
+              "description": "本地开源 24/7 Cowork / OpenClaw 桌面应用：内置 Agent 与 Office/PPT/Excel/Word skills，支持 Claude Code、Codex、Hermes、OpenClaw 等 20+ CLI 自动检测、WebUI 远程访问和定时任务，适合办公自动化与多代理协作（33K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7849,10 +7872,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T07:57:01Z",
-                "open_issues": 917,
+                "open_issues": 920,
                 "owner": "iOfficeAI",
                 "repo": "AionUi",
-                "stars": 32976,
+                "stars": 33011,
                 "topics": [
                   "acp",
                   "agent-team",
@@ -7881,7 +7904,7 @@
             {
               "node_type": "item",
               "title": "mcp-use",
-              "description": "全栈 MCP 框架：同时提供 TypeScript / Python SDK、MCP Inspector、云端部署与 MCP App/Server 构建链路，适合把 Claude / ChatGPT / Claude Code 的工具能力产品化（10.6K⭐）",
+              "description": "全栈 MCP 框架：同时提供 TypeScript / Python SDK、MCP Inspector、云端部署与 MCP App/Server 构建链路，适合把 Claude / ChatGPT / Claude Code 的工具能力产品化（10.7K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7891,10 +7914,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T23:57:03Z",
-                "open_issues": 74,
+                "open_issues": 76,
                 "owner": "mcp-use",
                 "repo": "mcp-use",
-                "stars": 10656,
+                "stars": 10663,
                 "topics": [
                   "agent-plugins",
                   "agentic-framework",
@@ -7923,7 +7946,7 @@
             {
               "node_type": "item",
               "title": "ui-ux-pro-max-skill",
-              "description": "跨平台 UI/UX 设计智能 Skill：沉淀 161 条推理规则、67 种 UI 风格与多平台设计规范，安装说明完整，适合产品界面、落地页和 App 原型生成（128.9K⭐）",
+              "description": "跨平台 UI/UX 设计智能 Skill：沉淀 161 条推理规则、67 种 UI 风格与多平台设计规范，安装说明完整，适合产品界面、落地页和 App 原型生成（129.3K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7932,11 +7955,11 @@
                 "id": 1106996539,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:58:38Z",
-                "open_issues": 84,
+                "last_commit": "2026-09-21T05:28:06Z",
+                "open_issues": 83,
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 129199,
+                "stars": 129486,
                 "topics": [
                   "ai-skills",
                   "antigravity",
@@ -7964,7 +7987,7 @@
             {
               "node_type": "item",
               "title": "aiskillstore/marketplace",
-              "description": "安全审计型 Agent Skills 市场：面向 Claude / Codex / Claude Code 提供一键安装与质量校验，README 明确列出 Claude Code 和 Codex 安装方式（427⭐）",
+              "description": "安全审计型 Agent Skills 市场：面向 Claude / Codex / Claude Code 提供一键安装与质量校验，README 明确列出 Claude Code 和 Codex 安装方式（429⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7973,7 +7996,7 @@
                 "id": 1120059050,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-20T05:02:15Z",
+                "last_commit": "2026-09-21T09:09:08Z",
                 "open_issues": 2,
                 "owner": "aiskillstore",
                 "repo": "marketplace",
@@ -8088,7 +8111,7 @@
             {
               "node_type": "item",
               "title": "borghei/Claude-Skills",
-              "description": "266 个跨部门 AI skills 与 67 个 cs-* agents，覆盖工程、营销、合规、C-level 与垂直行业，支持 Claude Code / Codex / Gemini CLI / Cursor 等 11 种助手（790⭐）",
+              "description": "266 个跨部门 AI skills 与 67 个 cs-* agents，覆盖工程、营销、合规、C-level 与垂直行业，支持 Claude Code / Codex / Gemini CLI / Cursor 等 11 种助手（795⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8101,7 +8124,7 @@
                 "open_issues": 3,
                 "owner": "borghei",
                 "repo": "Claude-Skills",
-                "stars": 796,
+                "stars": 802,
                 "topics": [
                   "agentic-coding",
                   "agile",
@@ -8142,7 +8165,7 @@
                 "open_issues": 9,
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1715,
+                "stars": 1716,
                 "topics": [
                   "agent",
                   "ai",
@@ -8161,7 +8184,7 @@
             {
               "node_type": "item",
               "title": "microsoft/power-platform-skills",
-              "description": "Microsoft Power Platform 官方插件市场：为 Claude Code / GitHub Copilot 提供可复用 skills、agents、commands，适合企业低代码与办公自动化开发（895⭐）",
+              "description": "Microsoft Power Platform 官方插件市场：为 Claude Code / GitHub Copilot 提供可复用 skills、agents、commands，适合企业低代码与办公自动化开发（900⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8170,11 +8193,11 @@
                 "id": 1139262569,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T08:25:24Z",
-                "open_issues": 136,
+                "last_commit": "2026-09-21T12:07:15Z",
+                "open_issues": 139,
                 "owner": "microsoft",
                 "repo": "power-platform-skills",
-                "stars": 898,
+                "stars": 904,
                 "topics": [
                   "claude-code-plugin",
                   "claude-code-skills",
@@ -8199,11 +8222,11 @@
                 "id": 1135891523,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T17:24:51Z",
-                "open_issues": 72,
+                "last_commit": "2026-09-21T11:05:21Z",
+                "open_issues": 73,
                 "owner": "microsoft",
                 "repo": "skills",
-                "stars": 3037,
+                "stars": 3041,
                 "topics": [
                   "agent-skills",
                   "agents",
@@ -8228,8 +8251,8 @@
                 "id": 1152585040,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T18:56:08Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-21T06:31:05Z",
+                "open_issues": 8,
                 "owner": "pdugan20",
                 "repo": "claudelint",
                 "stars": 12,
@@ -8247,7 +8270,7 @@
             {
               "node_type": "item",
               "title": "finding-unknowns-skills",
-              "description": "实现前盲点发现 Skills：8 个技能覆盖未知风险扫描、需求访谈、参考检索、实施计划、变更测验和交付说明，兼容 Claude Code / Codex（335⭐）",
+              "description": "实现前盲点发现 Skills：8 个技能覆盖未知风险扫描、需求访谈、参考检索、实施计划、变更测验和交付说明，兼容 Claude Code / Codex（336⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8260,7 +8283,7 @@
                 "open_issues": 0,
                 "owner": "Neeeophytee",
                 "repo": "finding-unknowns-skills",
-                "stars": 336,
+                "stars": 337,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -8280,7 +8303,7 @@
             {
               "node_type": "item",
               "title": "hashicorp/agent-skills",
-              "description": "HashiCorp 官方 Agent Skills 与 Claude Code 插件：覆盖 Terraform 代码生成、模块生成、Provider 开发和 Packer 工作流，支持 与 （868⭐）",
+              "description": "HashiCorp 官方 Agent Skills 与 Claude Code 插件：覆盖 Terraform 代码生成、模块生成、Provider 开发和 Packer 工作流，支持 与 （869⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8289,11 +8312,11 @@
                 "id": 1092101865,
                 "language": "HCL",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-04T18:43:06Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-21T01:04:08Z",
+                "open_issues": 27,
                 "owner": "hashicorp",
                 "repo": "agent-skills",
-                "stars": 869,
+                "stars": 870,
                 "topics": [
                   "doormat-managed"
                 ]
@@ -8316,7 +8339,7 @@
                 "open_issues": 17,
                 "owner": "google-labs-code",
                 "repo": "stitch-skills",
-                "stars": 8345,
+                "stars": 8348,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -8334,10 +8357,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-05-30T21:32:00Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "vuejs-ai",
                 "repo": "skills",
-                "stars": 2864,
+                "stars": 2867,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -8415,7 +8438,7 @@
                 "open_issues": 0,
                 "owner": "run-llama",
                 "repo": "llamaparse-agent-skills",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -8473,7 +8496,7 @@
                 "open_issues": 66,
                 "owner": "binance",
                 "repo": "binance-skills-hub",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": [
                   "agents",
                   "ai",
@@ -8552,14 +8575,14 @@
                 "open_issues": 19,
                 "owner": "vibeforge1111",
                 "repo": "keep-codex-fast",
-                "stars": 1578,
+                "stars": 1580,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
             },
             {
               "node_type": "item",
-              "title": "pickup",
+              "title": "corral",
               "description": "Claude Code / Codex / OpenCode / Kimi / Cursor 终端会话选择与交接工具：只读扫描本地历史并支持恢复或跨运行时移交；当前仅支持 Linux / macOS，依赖 tmux 3.2+，可选标题生成可能消耗 Agent 额度（3⭐）",
               "children": [],
               "repo_info": {
@@ -8650,7 +8673,7 @@
             {
               "node_type": "item",
               "title": "giuseppe-trisciuoglio/developer-kit",
-              "description": "模块化 Claude Code 插件市场：150+ Skills、45+ Agents，覆盖 Java / TypeScript / Python / PHP / AWS 等工程栈，支持 、OpenCode、Codex 和 GitHub Copilot CLI，并提供中文 README（345⭐）",
+              "description": "模块化 Claude Code 插件市场：150+ Skills、45+ Agents，覆盖 Java / TypeScript / Python / PHP / AWS 等工程栈，支持 、OpenCode、Codex 和 GitHub Copilot CLI，并提供中文 README（347⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8689,7 +8712,7 @@
             {
               "node_type": "item",
               "title": "trailofbits/skills-curated",
-              "description": "Trail of Bits 维护的社区验证 Claude Code 插件市场：强调安全审计与质量筛选，适合团队优先选择可信 Skills（504⭐）",
+              "description": "Trail of Bits 维护的社区验证 Claude Code 插件市场：强调安全审计与质量筛选，适合团队优先选择可信 Skills（505⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8740,11 +8763,11 @@
                 "id": 1073323930,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T01:07:14Z",
+                "last_commit": "2026-09-21T03:02:29Z",
                 "open_issues": 10,
                 "owner": "23blocks-OS",
                 "repo": "ai-maestro",
-                "stars": 789,
+                "stars": 790,
                 "topics": [
                   "agent-communication",
                   "agent-skills",
@@ -8786,7 +8809,7 @@
                 "open_issues": 20,
                 "owner": "withkynam",
                 "repo": "vibecode-pro-max-kit",
-                "stars": 1133,
+                "stars": 1136,
                 "topics": [
                   "agentic",
                   "ai-agents",
@@ -8828,7 +8851,7 @@
                 "open_issues": 14,
                 "owner": "UditAkhourii",
                 "repo": "adhd",
-                "stars": 4246,
+                "stars": 4255,
                 "topics": [
                   "adhd",
                   "agents",
@@ -8907,7 +8930,7 @@
             {
               "node_type": "item",
               "title": "proffesor-for-testing/agentic-qe",
-              "description": "AI 驱动 QA/QE 平台（480⭐）",
+              "description": "AI 驱动 QA/QE 平台（481⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8916,11 +8939,11 @@
                 "id": 1054806881,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T22:40:35Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-20T21:43:41Z",
+                "open_issues": 42,
                 "owner": "proffesor-for-testing",
                 "repo": "agentic-qe",
-                "stars": 481,
+                "stars": 482,
                 "topics": [
                   "agenticqe",
                   "agenticsfoundation",
@@ -8933,7 +8956,7 @@
             {
               "node_type": "item",
               "title": "cwinvestments/memstack",
-              "description": "127 个技能的结构化框架 + Dashboard（422⭐）",
+              "description": "127 个技能的结构化框架 + Dashboard（423⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8963,7 +8986,7 @@
             {
               "node_type": "item",
               "title": "coleam00/helpline",
-              "description": "Claude Code 完整 AI 层示范（111⭐）",
+              "description": "Claude Code 完整 AI 层示范（112⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9010,7 +9033,7 @@
             {
               "node_type": "item",
               "title": "taste-skill",
-              "description": "前端反套路设计 Skills：13 个技能约束排版、配色与组件选择，让 Claude Code / Cursor / Codex 生成的界面摆脱千篇一律的 AI 风格（88.3K⭐）",
+              "description": "前端反套路设计 Skills：13 个技能约束排版、配色与组件选择，让 Claude Code / Cursor / Codex 生成的界面摆脱千篇一律的 AI 风格（88.7K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9019,11 +9042,11 @@
                 "id": 1162099055,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:01:43Z",
-                "open_issues": 69,
+                "last_commit": "2026-09-20T16:26:24Z",
+                "open_issues": 70,
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 88653,
+                "stars": 88937,
                 "topics": [
                   "agent",
                   "ai",
@@ -9045,7 +9068,7 @@
             {
               "node_type": "item",
               "title": "ai-website-cloner-template",
-              "description": "网站克隆模板：给 Agent 一个 URL 即可复刻为干净的 Next.js 应用，支持 Claude Code / Codex / Cursor / Gemini；仅用于有权限的站点，注意版权与素材授权（34.6K⭐）",
+              "description": "网站克隆模板：给 Agent 一个 URL 即可复刻为干净的 Next.js 应用，支持 Claude Code / Codex / Cursor / Gemini；仅用于有权限的站点，注意版权与素材授权（34.7K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9058,7 +9081,7 @@
                 "open_issues": 1,
                 "owner": "JCodesMore",
                 "repo": "ai-website-cloner-template",
-                "stars": 34674,
+                "stars": 34728,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -9099,7 +9122,7 @@
                 "open_issues": 47,
                 "owner": "Nutlope",
                 "repo": "hallmark",
-                "stars": 28933,
+                "stars": 28975,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -9116,11 +9139,11 @@
                 "id": 1078319457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:01:36Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-20T16:14:08Z",
+                "open_issues": 46,
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 15011,
+                "stars": 15016,
                 "topics": [
                   "ai-tools",
                   "ast-parser",
@@ -9143,6 +9166,35 @@
                 ]
               },
               "first_seen": "2026-08-31T13:50:39.661Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mblode/agent-skills",
+              "description": "面向 Coding Agent 的工程技能库：27 个 SKILL.md 覆盖 UI 与排版审计、文档写作、README 生成、PR 创建与审查、发布流程和脚手架，MIT 许可；安装命令为 ，可按需挑选单个技能（126⭐）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nobody ships AI slop on purpose. These skills make sure you don’t.",
+                "homepage": "https://blode.co/agent-skills",
+                "id": 1132693155,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-19T19:20:27Z",
+                "open_issues": 0,
+                "owner": "mblode",
+                "repo": "agent-skills",
+                "stars": 126,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "anthropic",
+                  "claude-code",
+                  "claude-skills",
+                  "developer-tools",
+                  "llm"
+                ]
+              },
+              "first_seen": "2026-09-21T12:48:35.056Z"
             }
           ],
           "description": null,
@@ -9154,7 +9206,7 @@
             {
               "node_type": "item",
               "title": "dashiai-ppt-skill",
-              "description": "中文可编辑 PPTX 生成 / 网页编辑 / 安全返工 Skill：内置 12 套主题，生成和导出在本机完成；需 Node.js 20+ 和 Chrome / Chromium / Edge，采用 AGPL-3.0 且导出引擎含专有子包，分发或 SaaS 前需核对许可证（165⭐）",
+              "description": "中文可编辑 PPTX 生成 / 网页编辑 / 安全返工 Skill：内置 12 套主题，生成和导出在本机完成；需 Node.js 20+ 和 Chrome / Chromium / Edge，采用 AGPL-3.0 且导出引擎含专有子包，分发或 SaaS 前需核对许可证（169⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9167,7 +9219,7 @@
                 "open_issues": 0,
                 "owner": "mujingquan835",
                 "repo": "dashiai-ppt-skill",
-                "stars": 168,
+                "stars": 170,
                 "topics": [
                   "agent-skill",
                   "ai",
@@ -9182,7 +9234,7 @@
             {
               "node_type": "item",
               "title": "guizang-sports-skill",
-              "description": "中文 FIT / KML 运动轨迹分析 Skill：生成 3D 路线报告并导出 PNG / H.264 MP4，适合骑行、跑步、徒步复盘；需 Node.js 20.19+ 或 22.12+，精确 GPS 轨迹不上传搜索服务，导出前检查文件名和水印隐私（143⭐）",
+              "description": "中文 FIT / KML 运动轨迹分析 Skill：生成 3D 路线报告并导出 PNG / H.264 MP4，适合骑行、跑步、徒步复盘；需 Node.js 20.19+ 或 22.12+，精确 GPS 轨迹不上传搜索服务，导出前检查文件名和水印隐私（144⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9224,7 +9276,7 @@
             {
               "node_type": "item",
               "title": "human-writing",
-              "description": "中文内容创作与改稿 Skill：围绕材料、叙事推进、中文节奏和硬规则检查，适合知乎、公众号、博客、口播等场景；规则偏强，仍需人工核对事实、引语和目标风格（3.7K⭐）",
+              "description": "中文内容创作与改稿 Skill：围绕材料、叙事推进、中文节奏和硬规则检查，适合知乎、公众号、博客、口播等场景；规则偏强，仍需人工核对事实、引语和目标风格（3.8K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9237,7 +9289,7 @@
                 "open_issues": 8,
                 "owner": "KKKKhazix",
                 "repo": "human-writing",
-                "stars": 3752,
+                "stars": 3766,
                 "topics": [
                   "agent-skills",
                   "chinese-writing",
@@ -9250,7 +9302,7 @@
             {
               "node_type": "item",
               "title": "mcp_excalidraw",
-              "description": "Excalidraw MCP 服务器：AI 驱动的图表绘制 + 实时画布同步（2.4K⭐）",
+              "description": "Excalidraw MCP 服务器：AI 驱动的图表绘制 + 实时画布同步（2.5K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9260,10 +9312,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-08T14:24:12Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "yctimlin",
                 "repo": "mcp_excalidraw",
-                "stars": 2451,
+                "stars": 2454,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -9300,7 +9352,7 @@
             {
               "node_type": "item",
               "title": "openmontage",
-              "description": "🎬 世界首个开源 agentic 视频制作系统：12 流水线 + 52 工具 + 500+ 技能（60K⭐）",
+              "description": "🎬 世界首个开源 agentic 视频制作系统：12 流水线 + 52 工具 + 500+ 技能（60.4K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9310,10 +9362,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-06T05:02:34Z",
-                "open_issues": 329,
+                "open_issues": 330,
                 "owner": "calesthio",
                 "repo": "OpenMontage",
-                "stars": 60290,
+                "stars": 60627,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -9354,7 +9406,7 @@
                 "open_issues": 1,
                 "owner": "axtonliu",
                 "repo": "axton-obsidian-visual-skills",
-                "stars": 3617,
+                "stars": 3619,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -9362,7 +9414,7 @@
             {
               "node_type": "item",
               "title": "nexu-io/open-design",
-              "description": "本地优先 Claude Design 开源替代：19 个 Skills + 71 套品牌级设计系统，可生成 Web / 桌面 / 移动端原型、Slides、图片与视频，支持 Claude Code / Codex / Cursor / Gemini 等多 Agent（97K⭐）",
+              "description": "本地优先 Claude Design 开源替代：19 个 Skills + 71 套品牌级设计系统，可生成 Web / 桌面 / 移动端原型、Slides、图片与视频，支持 Claude Code / Codex / Cursor / Gemini 等多 Agent（97.2K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9371,11 +9423,11 @@
                 "id": 1223170290,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T11:24:13Z",
-                "open_issues": 1089,
+                "last_commit": "2026-09-21T12:47:55Z",
+                "open_issues": 1097,
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 97200,
+                "stars": 97402,
                 "topics": [
                   "agent-skills",
                   "ai-design",
@@ -9404,7 +9456,7 @@
             {
               "node_type": "item",
               "title": "bevibing/tutor-skills",
-              "description": "学习型 Claude Code Skill：把 PDF、文档和代码库转成 Obsidian 学习库，适合课程化内容沉淀、知识整理和自学复盘（1.1K⭐）",
+              "description": "学习型 Claude Code Skill：把 PDF、文档和代码库转成 Obsidian 学习库，适合课程化内容沉淀、知识整理和自学复盘（1.2K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9417,7 +9469,7 @@
                 "open_issues": 7,
                 "owner": "bevibing",
                 "repo": "tutor-skills",
-                "stars": 1157,
+                "stars": 1161,
                 "topics": [
                   "agent-skills",
                   "claude",
@@ -9443,10 +9495,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T04:23:47Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "AgriciDaniel",
                 "repo": "claude-blog",
-                "stars": 2204,
+                "stars": 2215,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -9488,7 +9540,7 @@
                 "open_issues": 10,
                 "owner": "oil-oil",
                 "repo": "beautify-github-readme",
-                "stars": 1770,
+                "stars": 1772,
                 "topics": [
                   "agent-skill",
                   "codex-skill",
@@ -9502,7 +9554,7 @@
             {
               "node_type": "item",
               "title": "video-shotcraft",
-              "description": "中文双语产品视频 Agent Skill：用 106 张镜头配方卡、161 条动态样片和可运行的 Remotion 模板制作宣传片，覆盖真实页面截图、2.5D 运镜、节奏卡点与声音设计；企业使用前需核对 Remotion、截图和素材许可（9K⭐）",
+              "description": "中文双语产品视频 Agent Skill：用 106 张镜头配方卡、161 条动态样片和可运行的 Remotion 模板制作宣传片，覆盖真实页面截图、2.5D 运镜、节奏卡点与声音设计；企业使用前需核对 Remotion、截图和素材许可（9.1K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9515,7 +9567,7 @@
                 "open_issues": 6,
                 "owner": "Vincentwei1021",
                 "repo": "video-shotcraft",
-                "stars": 9084,
+                "stars": 9156,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -9551,7 +9603,7 @@
                 "open_issues": 1,
                 "owner": "gnipbao",
                 "repo": "story-to-handdrawn-video",
-                "stars": 2004,
+                "stars": 2013,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -9559,7 +9611,7 @@
             {
               "node_type": "item",
               "title": "claude-world/notebooklm-skill",
-              "description": "NotebookLM × Claude Code 内容工作流：NotebookLM 负责研究，Claude 负责写作，串联 Research → Synthesis → Content Creation → Publishing，并提供 Skill + MCP Server（458⭐）",
+              "description": "NotebookLM × Claude Code 内容工作流：NotebookLM 负责研究，Claude 负责写作，串联 Research → Synthesis → Content Creation → Publishing，并提供 Skill + MCP Server（460⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9572,7 +9624,7 @@
                 "open_issues": 4,
                 "owner": "claude-world",
                 "repo": "notebooklm-skill",
-                "stars": 459,
+                "stars": 461,
                 "topics": [
                   "ai-research",
                   "claude-code",
@@ -9698,7 +9750,7 @@
                 "open_issues": 3,
                 "owner": "louisedesadeleer",
                 "repo": "clipify",
-                "stars": 569,
+                "stars": 572,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -9719,7 +9771,7 @@
                 "open_issues": 1,
                 "owner": "tmchow",
                 "repo": "illo-skill",
-                "stars": 379,
+                "stars": 380,
                 "topics": [
                   "agent-skills",
                   "claude-code",
@@ -9746,7 +9798,7 @@
                 "open_issues": 1,
                 "owner": "plannotator",
                 "repo": "effective-html",
-                "stars": 3237,
+                "stars": 3248,
                 "topics": [
                   "agent-skills",
                   "claude-code",
@@ -9776,7 +9828,7 @@
                 "open_issues": 2,
                 "owner": "liangdabiao",
                 "repo": "ecom-details-image",
-                "stars": 1200,
+                "stars": 1213,
                 "topics": [
                   "skill",
                   "skills"
@@ -9787,7 +9839,7 @@
             {
               "node_type": "item",
               "title": "feicaiclub/video-spec-builder",
-              "description": "视频创意→分镜脚本生成（977⭐）",
+              "description": "视频创意→分镜脚本生成（979⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9800,7 +9852,7 @@
                 "open_issues": 3,
                 "owner": "feicaiclub",
                 "repo": "video-spec-builder",
-                "stars": 979,
+                "stars": 983,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -9844,7 +9896,7 @@
             {
               "node_type": "item",
               "title": "realrossmanngroup/no_ai_slop_writing_rules",
-              "description": "反 AI 味写作规则（684⭐）",
+              "description": "反 AI 味写作规则（685⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9857,7 +9909,7 @@
                 "open_issues": 2,
                 "owner": "realrossmanngroup",
                 "repo": "no_ai_slop_writing_rules",
-                "stars": 685,
+                "stars": 686,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -9885,8 +9937,8 @@
             },
             {
               "node_type": "item",
-              "title": "worldwonderer/video-recap-skills",
-              "description": "视频→中文解说视频（522⭐）",
+              "title": "zenstory-ai/video-recap-skills",
+              "description": "视频→中文解说视频（526⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9895,11 +9947,11 @@
                 "id": 1227341286,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T11:23:54Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-21T05:11:27Z",
+                "open_issues": 1,
                 "owner": "zenstory-ai",
                 "repo": "video-recap-skills",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -10011,7 +10063,7 @@
             {
               "node_type": "item",
               "title": "anything-to-course",
-              "description": "学习科学驱动的 Agent Skill：把文档、笔记、转录、幻灯片或代码库转成自学课程，内置检索练习、间隔复习、交错练习和独立答案文件，支持 Claude Code / Claude.ai / Codex 安装（14⭐）",
+              "description": "学习科学驱动的 Agent Skill：把文档、笔记、转录、幻灯片或代码库转成自学课程，内置检索练习、间隔复习、交错练习和独立答案文件，支持 Claude Code / Claude.ai / Codex 安装（15⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10106,7 +10158,7 @@
                 "open_issues": 4,
                 "owner": "op7418",
                 "repo": "guizang-material-illustration",
-                "stars": 1160,
+                "stars": 1162,
                 "topics": [
                   "agent",
                   "chart-visualization",
@@ -10127,7 +10179,7 @@
             {
               "node_type": "item",
               "title": "OrkasVideoStudio",
-              "description": "本地优先的视频制作 CLI + MCP：用可编辑 plan.json 时间线驱动 Claude Code / Codex 完成规划、编排、生成与自动组装，10 个官方 SKILL.md 可一键装入，MIT 许可；视频生成依赖 ffmpeg 等本地工具链（487⭐）",
+              "description": "本地优先的视频制作 CLI + MCP：用可编辑 plan.json 时间线驱动 Claude Code / Codex 完成规划、编排、生成与自动组装，10 个官方 SKILL.md 可一键装入，MIT 许可；视频生成依赖 ffmpeg 等本地工具链（488⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10136,11 +10188,11 @@
                 "id": 1285161033,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T04:30:07Z",
+                "last_commit": "2026-09-21T12:14:42Z",
                 "open_issues": 0,
                 "owner": "Orkas-AI",
                 "repo": "Orkas-VideoStudio",
-                "stars": 488,
+                "stars": 489,
                 "topics": [
                   "ai-agents",
                   "ai-video",
@@ -10189,7 +10241,7 @@
                 "open_issues": 0,
                 "owner": "Weizhena",
                 "repo": "Deep-Research-skills",
-                "stars": 2202,
+                "stars": 2212,
                 "topics": [
                   "claude-code",
                   "claude-code-skills",
@@ -10206,7 +10258,7 @@
             {
               "node_type": "item",
               "title": "paper-search-pro",
-              "description": "学术文献发现 Skill：聚合五类来源并生成单文件报告，兼容 Claude Code / Codex / 其他支持 SKILL.md 的 Agent；需 Python 环境和可选 API 配置，检索结果与引用仍需人工核对（167⭐）",
+              "description": "学术文献发现 Skill：聚合五类来源并生成单文件报告，兼容 Claude Code / Codex / 其他支持 SKILL.md 的 Agent；需 Python 环境和可选 API 配置，检索结果与引用仍需人工核对（170⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10295,7 +10347,7 @@
                 "open_issues": 2,
                 "owner": "zLanqing",
                 "repo": "codex-claude-academic-skills",
-                "stars": 4107,
+                "stars": 4154,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -10316,7 +10368,7 @@
                 "open_issues": 1,
                 "owner": "Haojae",
                 "repo": "scipilot-figure-skill",
-                "stars": 2424,
+                "stars": 2436,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -10324,7 +10376,7 @@
             {
               "node_type": "item",
               "title": "xiaofenggan01/aigc-reduce",
-              "description": "降低学术论文 AIGC 查重率（576⭐）",
+              "description": "降低学术论文 AIGC 查重率（579⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10337,7 +10389,7 @@
                 "open_issues": 0,
                 "owner": "xiaofenggan01",
                 "repo": "aigc-reduce",
-                "stars": 578,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -10358,7 +10410,7 @@
                 "open_issues": 1,
                 "owner": "Spark-To-Paper-Skills",
                 "repo": "paperjury",
-                "stars": 1202,
+                "stars": 1204,
                 "topics": [
                   "academic-writing",
                   "ai-agents",
@@ -10384,11 +10436,11 @@
                 "id": 1267423357,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T07:17:34Z",
+                "last_commit": "2026-09-21T07:27:13Z",
                 "open_issues": 6,
                 "owner": "modelscope",
                 "repo": "Awesome-Vibe-Research",
-                "stars": 435,
+                "stars": 437,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -10409,7 +10461,7 @@
                 "open_issues": 2,
                 "owner": "brycewang-stanford",
                 "repo": "Awesome-Journal-Skills",
-                "stars": 1133,
+                "stars": 1139,
                 "topics": [
                   "academic-research",
                   "academic-writing",
@@ -10438,7 +10490,7 @@
             {
               "node_type": "item",
               "title": "humanities-writing-companion",
-              "description": "人文学科写作伙伴：中英双语 SKILL.md 覆盖研究问题、文献图谱、写作、对抗审阅、修订和 AI 使用披露，强调保留作者声音；采用 CC BY-NC 4.0（412⭐）",
+              "description": "人文学科写作伙伴：中英双语 SKILL.md 覆盖研究问题、文献图谱、写作、对抗审阅、修订和 AI 使用披露，强调保留作者声音；采用 CC BY-NC 4.0（414⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10451,7 +10503,7 @@
                 "open_issues": 0,
                 "owner": "tizzy916",
                 "repo": "humanities-writing-companion",
-                "stars": 413,
+                "stars": 414,
                 "topics": [
                   "academic-writing",
                   "bilingual",
@@ -10475,7 +10527,7 @@
             {
               "node_type": "item",
               "title": "academic-research-skills",
-              "description": "人机协作学术研究 Skills 套件：4 个核心 Skill 串联深度研究、论文写作、审稿与修订，带引用核验和完整性门禁，支持 Claude Code 插件安装；采用 CC BY-NC 4.0，最终论证与学术诚信仍由研究者负责（48.7K⭐）",
+              "description": "人机协作学术研究 Skills 套件：4 个核心 Skill 串联深度研究、论文写作、审稿与修订，带引用核验和完整性门禁，支持 Claude Code 插件安装；采用 CC BY-NC 4.0，最终论证与学术诚信仍由研究者负责（48.9K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10484,11 +10536,11 @@
                 "id": 1167300963,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T14:01:55Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-21T06:38:08Z",
+                "open_issues": 32,
                 "owner": "Imbad0202",
                 "repo": "academic-research-skills",
-                "stars": 48822,
+                "stars": 48975,
                 "topics": [
                   "academic-pipeline",
                   "academic-writing",
@@ -10526,7 +10578,7 @@
             {
               "node_type": "item",
               "title": "book-to-skill",
-              "description": "把技术书 PDF 蒸馏成可查询 Skill：按框架、决策规则和反模式组织分章文件，Agent 按需加载对应章节作答而非整本摘要，支持 Claude Code / Codex；仅处理本地书籍文件，注意版权边界（31.1K⭐）",
+              "description": "把技术书 PDF 蒸馏成可查询 Skill：按框架、决策规则和反模式组织分章文件，Agent 按需加载对应章节作答而非整本摘要，支持 Claude Code / Codex；仅处理本地书籍文件，注意版权边界（31.6K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10536,10 +10588,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:41:35Z",
-                "open_issues": 20,
+                "open_issues": 22,
                 "owner": "virgiliojr94",
                 "repo": "book-to-skill",
-                "stars": 31527,
+                "stars": 31763,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -10641,10 +10693,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T08:36:00Z",
-                "open_issues": 6,
+                "open_issues": 10,
                 "owner": "QwenLM",
                 "repo": "Qwen-MM-Plugins",
-                "stars": 2931,
+                "stars": 2946,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -10703,11 +10755,11 @@
                 "id": 1025856648,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T02:36:23Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-21T01:09:57Z",
+                "open_issues": 15,
                 "owner": "wshobson",
                 "repo": "agents",
-                "stars": 39826,
+                "stars": 39848,
                 "topics": [
                   "agent-skills",
                   "agentic-ai",
@@ -10736,7 +10788,7 @@
             {
               "node_type": "item",
               "title": "oh-my-claudecode",
-              "description": "🏢 Teams-first 多 Agent 编排，团队协作场景（39.2K⭐）",
+              "description": "🏢 Teams-first 多 Agent 编排，团队协作场景（39.3K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10745,11 +10797,11 @@
                 "id": 1130809465,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T08:15:07Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-21T12:45:11Z",
+                "open_issues": 7,
                 "owner": "Yeachan-Heo",
                 "repo": "oh-my-claudecode",
-                "stars": 39266,
+                "stars": 39285,
                 "topics": [
                   "agentic-coding",
                   "ai-agents",
@@ -10816,11 +10868,11 @@
                 "id": 1078171437,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T15:06:06Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-21T11:26:27Z",
+                "open_issues": 16,
                 "owner": "gadievron",
                 "repo": "raptor",
-                "stars": 3809,
+                "stars": 3812,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -10828,7 +10880,7 @@
             {
               "node_type": "item",
               "title": "godogen",
-              "description": "🎮 从游戏描述构建完整 Godot 4 项目（6.9K⭐）",
+              "description": "🎮 从游戏描述构建完整 Godot 4 项目（7K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10841,7 +10893,7 @@
                 "open_issues": 12,
                 "owner": "htdt",
                 "repo": "godogen",
-                "stars": 6953,
+                "stars": 6964,
                 "topics": [
                   "claude",
                   "claude-code",
@@ -10869,11 +10921,11 @@
                 "id": 1029036679,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-14T09:59:52Z",
+                "last_commit": "2026-09-21T08:24:27Z",
                 "open_issues": 0,
                 "owner": "VoltAgent",
                 "repo": "awesome-claude-code-subagents",
-                "stars": 25215,
+                "stars": 25229,
                 "topics": [
                   "ai-agent-framework",
                   "ai-agent-tools",
@@ -10901,11 +10953,11 @@
                 "id": 1134568207,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T15:41:49Z",
+                "last_commit": "2026-09-20T12:07:07Z",
                 "open_issues": 20,
                 "owner": "Agentchengfeng",
                 "repo": "chengfeng-videocut-skills",
-                "stars": 3002,
+                "stars": 3004,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -10913,7 +10965,7 @@
             {
               "node_type": "item",
               "title": "ARIS",
-              "description": "⚔️ 自主 ML 研究：跨模型审查 + 想法发现 + 实验自动化（16.3K⭐）",
+              "description": "⚔️ 自主 ML 研究：跨模型审查 + 想法发现 + 实验自动化（16.4K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10926,7 +10978,7 @@
                 "open_issues": 70,
                 "owner": "wanshuiyin",
                 "repo": "Auto-claude-code-research-in-sleep",
-                "stars": 16394,
+                "stars": 16453,
                 "topics": [
                   "ai-research",
                   "ai-tools",
@@ -10955,7 +11007,7 @@
             {
               "node_type": "item",
               "title": "browser-use",
-              "description": "🌐 AI 浏览器自动化基础设施：提供开源库 + Cloud stealth 浏览器 + 文档化 LLM 接入方式，适合为 Claude Code / Cursor / 自定义 agent 增强网页操作能力（115.2K⭐）",
+              "description": "🌐 AI 浏览器自动化基础设施：提供开源库 + Cloud stealth 浏览器 + 文档化 LLM 接入方式，适合为 Claude Code / Cursor / 自定义 agent 增强网页操作能力（115.5K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10965,10 +11017,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T22:34:42Z",
-                "open_issues": 457,
+                "open_issues": 472,
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 115451,
+                "stars": 115703,
                 "topics": [
                   "ai-agents",
                   "ai-tools",
@@ -10993,11 +11045,11 @@
                 "id": 1178833585,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T07:40:12Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-21T08:08:38Z",
+                "open_issues": 38,
                 "owner": "iflytek",
                 "repo": "skillhub",
-                "stars": 5129,
+                "stars": 5134,
                 "topics": [
                   "agent-framework",
                   "ai-agent",
@@ -11024,7 +11076,7 @@
             {
               "node_type": "item",
               "title": "tech-leads-club/agent-skills",
-              "description": "安全优先的专业 Agent Skills Registry：提供校验过的技能目录、CLI 安装/更新/移除、多 Agent 兼容与 Snyk 扫描，适合团队级技能治理与分发（6.4K⭐）",
+              "description": "安全优先的专业 Agent Skills Registry：提供校验过的技能目录、CLI 安装/更新/移除、多 Agent 兼容与 Snyk 扫描，适合团队级技能治理与分发（6.5K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11033,11 +11085,11 @@
                 "id": 1137515077,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T09:02:40Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-20T12:37:19Z",
+                "open_issues": 26,
                 "owner": "tech-leads-club",
                 "repo": "agent-skills",
-                "stars": 6504,
+                "stars": 6573,
                 "topics": [
                   "agent",
                   "ai",
@@ -11062,11 +11114,11 @@
                 "id": 1127248221,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T01:25:48Z",
-                "open_issues": 77,
+                "last_commit": "2026-09-21T07:27:08Z",
+                "open_issues": 80,
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9434,
+                "stars": 9436,
                 "topics": [
                   "directory",
                   "skill"
@@ -11090,7 +11142,7 @@
                 "open_issues": 58,
                 "owner": "browserbase",
                 "repo": "skills",
-                "stars": 3723,
+                "stars": 3724,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -11107,11 +11159,11 @@
                 "id": 962024783,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T05:58:32Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-21T11:12:11Z",
+                "open_issues": 14,
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 3074,
+                "stars": 3077,
                 "topics": [
                   "agent",
                   "ai",
@@ -11125,7 +11177,7 @@
             {
               "node_type": "item",
               "title": "anthropics/launch-your-agent",
-              "description": "🚀 Anthropic 官方 Claude Managed Agent 发布技能：从想法到上线的完整工作流，含访谈、规划、部署与迭代（999⭐）",
+              "description": "🚀 Anthropic 官方 Claude Managed Agent 发布技能：从想法到上线的完整工作流，含访谈、规划、部署与迭代（1K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11138,7 +11190,7 @@
                 "open_issues": 1,
                 "owner": "anthropics",
                 "repo": "launch-your-agent",
-                "stars": 1000,
+                "stars": 1005,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -11146,7 +11198,7 @@
             {
               "node_type": "item",
               "title": "phuryn/pm-skills",
-              "description": "产品经理 Skills Marketplace：65+ PM Skills 与 36 个链式工作流，覆盖用户发现、战略、执行、发布和增长，适合产品/运营团队把方法论固化为可复用 Agent 技能（26.4K⭐）",
+              "description": "产品经理 Skills Marketplace：65+ PM Skills 与 36 个链式工作流，覆盖用户发现、战略、执行、发布和增长，适合产品/运营团队把方法论固化为可复用 Agent 技能（26.5K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11159,7 +11211,7 @@
                 "open_issues": 41,
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 26459,
+                "stars": 26494,
                 "topics": [
                   "agent-skill-repository",
                   "agent-skills",
@@ -11184,8 +11236,8 @@
                 "id": 1025906681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T07:32:07Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-21T05:22:20Z",
+                "open_issues": 16,
                 "owner": "davepoon",
                 "repo": "buildwithclaude",
                 "stars": 3501,
@@ -11230,7 +11282,7 @@
             {
               "node_type": "item",
               "title": "garrytan/gbrain",
-              "description": "Garry Tan 的 OpenClaw / Hermes Agent Brain：把个人工作方法、记忆与 Agent 配置沉淀为可复用大脑，适合个人 AI 助手长期演化（30.1K⭐）",
+              "description": "Garry Tan 的 OpenClaw / Hermes Agent Brain：把个人工作方法、记忆与 Agent 配置沉淀为可复用大脑，适合个人 AI 助手长期演化（30.2K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11239,11 +11291,11 @@
                 "id": 1202057891,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T21:00:26Z",
-                "open_issues": 306,
+                "last_commit": "2026-09-20T21:23:37Z",
+                "open_issues": 325,
                 "owner": "garrytan",
                 "repo": "gbrain",
-                "stars": 30163,
+                "stars": 30202,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -11260,11 +11312,11 @@
                 "id": 817326197,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T10:45:53Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-21T11:10:49Z",
+                "open_issues": 26,
                 "owner": "screenpipe",
                 "repo": "screenpipe",
-                "stars": 21639,
+                "stars": 21652,
                 "topics": [
                   "agents",
                   "agi",
@@ -11293,7 +11345,7 @@
             {
               "node_type": "item",
               "title": "eugeniughelbur/obsidian-second-brain",
-              "description": "Obsidian 第二大脑 Claude Code Skill：31 个命令覆盖 vault-first research、定时 Agent 与长期知识维护，让知识库成为可持续演化的 Agent 工作台（4.5K⭐）",
+              "description": "Obsidian 第二大脑 Claude Code Skill：31 个命令覆盖 vault-first research、定时 Agent 与长期知识维护，让知识库成为可持续演化的 Agent 工作台（4.6K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11303,10 +11355,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-20T11:18:59Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "eugeniughelbur",
                 "repo": "obsidian-second-brain",
-                "stars": 4553,
+                "stars": 4565,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -11380,8 +11432,8 @@
                 "id": 1161837213,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T06:22:27Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-21T06:27:33Z",
+                "open_issues": 15,
                 "owner": "Leon-Drq",
                 "repo": "openagentskill",
                 "stars": 352,
@@ -11413,7 +11465,7 @@
             {
               "node_type": "item",
               "title": "learn-skills.dev",
-              "description": "AI Agent Skills 搜索与安装站：聚合 skills.sh 榜单和手动技能索引，支持搜索、复制与安装 Claude Code / Cursor / OpenClaw 等工具可用技能，并提供中文 README（210⭐）",
+              "description": "AI Agent Skills 搜索与安装站：聚合 skills.sh 榜单和手动技能索引，支持搜索、复制与安装 Claude Code / Cursor / OpenClaw 等工具可用技能，并提供中文 README（211⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11422,11 +11474,11 @@
                 "id": 1142998259,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-20T08:34:35Z",
+                "last_commit": "2026-09-21T05:54:10Z",
                 "open_issues": 2,
                 "owner": "NeverSight",
                 "repo": "learn-skills.dev",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "learn-skills",
                   "skills"
@@ -11472,7 +11524,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T00:34:39Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "KimYx0207",
                 "repo": "Meta_Kim",
                 "stars": 274,
@@ -11563,7 +11615,7 @@
             {
               "node_type": "item",
               "title": "blader/napkin",
-              "description": "Claude Code / Codex 持久错误记忆 Skill：在仓库内维护 ，记录纠错、偏好和复盘，帮助后续会话避免重复犯错（600⭐）",
+              "description": "Claude Code / Codex 持久错误记忆 Skill：在仓库内维护 ，记录纠错、偏好和复盘，帮助后续会话避免重复犯错（608⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11576,7 +11628,7 @@
                 "open_issues": 1,
                 "owner": "blader",
                 "repo": "napkin",
-                "stars": 608,
+                "stars": 610,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -11612,7 +11664,7 @@
             {
               "node_type": "item",
               "title": "tuchg/Lucarne",
-              "description": "远程通知/审批/恢复 Codex/Claude Code 会话（338⭐）",
+              "description": "远程通知/审批/恢复 Codex/Claude Code 会话（340⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11650,7 +11702,7 @@
             {
               "node_type": "item",
               "title": "ayghri/i-have-adhd",
-              "description": "ADHD 友好输出（48.3K⭐）",
+              "description": "ADHD 友好输出（49.1K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11660,10 +11712,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-19T16:44:46Z",
-                "open_issues": 68,
+                "open_issues": 70,
                 "owner": "ayghri",
                 "repo": "i-have-adhd",
-                "stars": 48994,
+                "stars": 49573,
                 "topics": [
                   "adhd",
                   "claude-",
@@ -11678,7 +11730,7 @@
             {
               "node_type": "item",
               "title": "Lynnouo/yushio",
-              "description": "AI 协作者人设 Skill（219⭐）",
+              "description": "AI 协作者人设 Skill（220⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11691,7 +11743,7 @@
                 "open_issues": 4,
                 "owner": "Lynnouo",
                 "repo": "yushio",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -11712,7 +11764,7 @@
                 "open_issues": 0,
                 "owner": "swaylq",
                 "repo": "master-skill",
-                "stars": 130,
+                "stars": 132,
                 "topics": [
                   "agent",
                   "agent-skills",
@@ -11734,7 +11786,7 @@
             {
               "node_type": "item",
               "title": "ccteam",
-              "description": "自托管 Claude Code / Codex 多 Agent 团队控制台：通过 Telegram、飞书或 Web 远程派单、收集结果并限制层级、并发和预算；默认监听 且无 TLS，仅建议用于可信局域网或改为绑定本机（584⭐）",
+              "description": "自托管 Claude Code / Codex 多 Agent 团队控制台：通过 Telegram、飞书或 Web 远程派单、收集结果并限制层级、并发和预算；默认监听 且无 TLS，仅建议用于可信局域网或改为绑定本机（596⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11743,11 +11795,11 @@
                 "id": 1229017267,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-12T20:06:35Z",
+                "last_commit": "2026-09-21T05:46:07Z",
                 "open_issues": 5,
                 "owner": "firstintent",
                 "repo": "ccteam",
-                "stars": 595,
+                "stars": 605,
                 "topics": [
                   "agent",
                   "claude-code",
@@ -11763,7 +11815,7 @@
             {
               "node_type": "item",
               "title": "ruflo",
-              "description": "Agent 元编排框架：为 Claude Code / Codex 提供多智能体集群、任务分解与共享记忆，30 个 SKILL.md 可按需安装，MIT 许可（72.8K⭐）",
+              "description": "Agent 元编排框架：为 Claude Code / Codex 提供多智能体集群、任务分解与共享记忆，30 个 SKILL.md 可按需安装，MIT 许可（72.9K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11772,11 +11824,11 @@
                 "id": 995029641,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T06:28:23Z",
-                "open_issues": 998,
+                "last_commit": "2026-09-21T09:17:57Z",
+                "open_issues": 1006,
                 "owner": "ruvnet",
                 "repo": "ruflo",
-                "stars": 72891,
+                "stars": 72975,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -11805,7 +11857,7 @@
             {
               "node_type": "item",
               "title": "ego-lite",
-              "description": "面向 AI Agent 的共享浏览器：Agent 在独立 Space 里运行多个浏览器任务，复用用户真实登录态和标签页，减少 token 消耗；内置 Skill，目前仅支持 macOS，Windows / Linux 在路线图（16.2K⭐）",
+              "description": "面向 AI Agent 的共享浏览器：Agent 在独立 Space 里运行多个浏览器任务，复用用户真实登录态和标签页，减少 token 消耗；内置 Skill，目前仅支持 macOS，Windows / Linux 在路线图（16.3K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11814,11 +11866,11 @@
                 "id": 1212503250,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T08:48:37Z",
-                "open_issues": 171,
+                "last_commit": "2026-09-21T12:08:03Z",
+                "open_issues": 175,
                 "owner": "citrolabs",
                 "repo": "ego-lite",
-                "stars": 16261,
+                "stars": 16317,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -11833,6 +11885,64 @@
                 ]
               },
               "first_seen": "2026-08-31T13:50:39.661Z"
+            },
+            {
+              "node_type": "item",
+              "title": "yylo-skills",
+              "description": "yylo-dev 组织维护的编码代理任务管理技能包：7 个 SKILL.md 覆盖看板任务账本、任务规划、项目理解、wiki 知识与经验证交付循环，MIT 许可，可用 装到 Claude Code / Codex / Pi（1⭐）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1361926058,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-09-20T18:57:19Z",
+                "open_issues": 0,
+                "owner": "yylo-dev",
+                "repo": "yylo-skills",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-21T12:48:35.056Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OrcaReplay",
+              "description": "Agent 运行的时间旅行调试工具： 录制会话的模型请求、工具调用、shell 退出码与文件改动， 离线重放或换模型分叉对比；内置 让 Agent 回答“上次那次运行做了什么”时先读录像而非凭记忆复述；需 Node 20+，重放仍会真实执行录下的 shell 命令、默认会用录像覆盖工作区（应传 ，这不是沙箱），且“重放通过”不等于重新跑一次也会失败（258⭐）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+                "homepage": "http://www.orcarouter.ai",
+                "id": 1350419329,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-21T12:04:24Z",
+                "open_issues": 2,
+                "owner": "Continuum-AI-Corp",
+                "repo": "OrcaReplay",
+                "stars": 259,
+                "topics": [
+                  "agent-debugging",
+                  "agent-tracing",
+                  "ai-agent",
+                  "ai-agents",
+                  "ai-debugger",
+                  "ai-debugging",
+                  "anthropic",
+                  "llm",
+                  "llm-agents",
+                  "llm-evaluation",
+                  "llm-observability",
+                  "mcp",
+                  "observability",
+                  "openai",
+                  "orcarouter"
+                ]
+              },
+              "first_seen": "2026-09-21T12:48:35.056Z"
             }
           ],
           "description": null,
@@ -11854,10 +11964,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-10T21:48:01Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "wondelai",
                 "repo": "skills",
-                "stars": 2218,
+                "stars": 2229,
                 "topics": [
                   "agent-skills",
                   "ai-skills",
@@ -11895,7 +12005,7 @@
                 "open_issues": 0,
                 "owner": "dontbesilent2025",
                 "repo": "dbskill",
-                "stars": 10192,
+                "stars": 10214,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -11912,8 +12022,8 @@
                 "id": 1163535375,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T20:13:49Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-21T02:30:26Z",
+                "open_issues": 2,
                 "owner": "getaero-io",
                 "repo": "gtm-eng-skills",
                 "stars": 60,
@@ -12070,7 +12180,7 @@
                 "open_issues": 1,
                 "owner": "duolahypercho",
                 "repo": "fusion-fable",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -12152,7 +12262,7 @@
                 "open_issues": 1,
                 "owner": "gauss314",
                 "repo": "skills",
-                "stars": 241,
+                "stars": 242,
                 "topics": [
                   "agentic-ai",
                   "agentic-skill",
@@ -12178,7 +12288,7 @@
             {
               "node_type": "item",
               "title": "luopan",
-              "description": "中文行业与公司研究路由 Skill：通过信源分级和对抗验证分析产业链权力、利润分布与公司质量，适合投资或求职研究，不替代投资建议（386⭐）",
+              "description": "中文行业与公司研究路由 Skill：通过信源分级和对抗验证分析产业链权力、利润分布与公司质量，适合投资或求职研究，不替代投资建议（387⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12291,6 +12401,38 @@
                 ]
               },
               "first_seen": "2026-09-05T10:35:37.877Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ai-trader-team",
+              "description": "投资研究工作流框架：、 等 5 个 SKILL.md 驱动趋势 / 宏观 / 风险 / 资金面 4 个视角子 Agent 并行分析，分歧时明确标注 Gray Zone 而不强行折中，仓位与相关系数等计算交给 而非 LLM 心算；MIT 许可，行情取自 yfinance，仓库声明仅供教育研究、不构成投资建议，决策前请自行核实数据与风险（2⭐）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AI 에이전트로 전문 투자 리서치 팀을 구성하는 Claude Code 프레임워크 — 병렬 서브에이전트 4관점 분석 + 결정론적 검증 도구 + 워크포워드 백테스트",
+                "homepage": null,
+                "id": 1342535420,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-20T14:52:46Z",
+                "open_issues": 1,
+                "owner": "TLSRUF",
+                "repo": "ai-trader-team",
+                "stars": 2,
+                "topics": [
+                  "ai-agents",
+                  "backtesting",
+                  "claude-code",
+                  "investment-research",
+                  "llm",
+                  "multi-agent",
+                  "python",
+                  "quantitative-finance",
+                  "stock-analysis",
+                  "trading"
+                ]
+              },
+              "first_seen": "2026-09-21T12:48:35.056Z"
             }
           ],
           "description": null,
@@ -12332,7 +12474,7 @@
             {
               "node_type": "item",
               "title": "Humanizer-zh",
-              "description": "消除中文 AI 写作痕迹（17.5K⭐）",
+              "description": "消除中文 AI 写作痕迹（17.6K⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12345,7 +12487,7 @@
                 "open_issues": 30,
                 "owner": "op7418",
                 "repo": "Humanizer-zh",
-                "stars": 17599,
+                "stars": 17669,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -12362,11 +12504,11 @@
                 "id": 1188860591,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T07:00:14Z",
+                "last_commit": "2026-09-21T07:09:39Z",
                 "open_issues": 2,
                 "owner": "MrGeDiao",
                 "repo": "shuorenhua",
-                "stars": 1814,
+                "stars": 1834,
                 "topics": [
                   "agent-skill",
                   "ai-writing",
@@ -12425,7 +12567,7 @@
                 "open_issues": 49,
                 "owner": "eze-is",
                 "repo": "web-access",
-                "stars": 8986,
+                "stars": 8997,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -12433,7 +12575,7 @@
             {
               "node_type": "item",
               "title": "awesome-agent-skills",
-              "description": "🇨🇳 精选 AI Agent Skills 列表，适配 Cursor / Claude Code / GitHub Copilot（639⭐）",
+              "description": "🇨🇳 精选 AI Agent Skills 列表，适配 Cursor / Claude Code / GitHub Copilot（640⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12442,11 +12584,11 @@
                 "id": 1143816215,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-18T05:27:15Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-21T03:18:59Z",
+                "open_issues": 4,
                 "owner": "JackyST0",
                 "repo": "awesome-agent-skills",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -12517,7 +12659,7 @@
                 "open_issues": 0,
                 "owner": "LearnPrompt",
                 "repo": "luban-skill",
-                "stars": 953,
+                "stars": 954,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -12525,7 +12667,7 @@
             {
               "node_type": "item",
               "title": "compass-skills",
-              "description": "🧭 司南：个性化 AI 任务总控 Skills 系统，面向中文用户的 Agent 任务编排（728⭐）",
+              "description": "🧭 司南：个性化 AI 任务总控 Skills 系统，面向中文用户的 Agent 任务编排（730⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12538,7 +12680,7 @@
                 "open_issues": 0,
                 "owner": "dongshuyan",
                 "repo": "compass-skills",
-                "stars": 729,
+                "stars": 731,
                 "topics": [
                   "agent-memory",
                   "agent-skill",
@@ -12567,7 +12709,7 @@
             {
               "node_type": "item",
               "title": "chubbyguan/chubbyskills",
-              "description": "中文全渠道内容采集（抖音/B站/小红书/公众号）（683⭐）",
+              "description": "中文全渠道内容采集（抖音/B站/小红书/公众号）（688⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12580,7 +12722,7 @@
                 "open_issues": 1,
                 "owner": "chubbyguan",
                 "repo": "chubbyskills",
-                "stars": 688,
+                "stars": 689,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -12612,7 +12754,7 @@
                 "open_issues": 0,
                 "owner": "mingze21",
                 "repo": "bazi-ziwei-skill",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-31T13:50:39.661Z"
@@ -12620,7 +12762,7 @@
             {
               "node_type": "item",
               "title": "lan1177/interview-prep",
-              "description": "产品/运营岗位面试准备文档生成器（96⭐）",
+              "description": "产品/运营岗位面试准备文档生成器（95⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12673,7 +12815,7 @@
             {
               "node_type": "item",
               "title": "offer-helper",
-              "description": "💼 中文求职助手：摄入简历/GitHub 仓库/文档建可持久化经历库，按 JD 生成 STAR 量化简历（严格防虚构），并做大厂式由浅及深的深挖面试（2⭐）",
+              "description": "💼 中文求职助手：摄入简历/GitHub 仓库/文档建可持久化经历库，按 JD 生成 STAR 量化简历（严格防虚构），并做大厂式由浅及深的深挖面试（3⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12706,7 +12848,7 @@
             {
               "node_type": "item",
               "title": "Bloom",
-              "description": "🌸 基于 Bloom 2-Sigma 研究的中文苏格拉底式 AI 家教：自适应学习路径、反问引导、中文优先（266⭐）",
+              "description": "🌸 基于 Bloom 2-Sigma 研究的中文苏格拉底式 AI 家教：自适应学习路径、反问引导、中文优先（267⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12719,7 +12861,7 @@
                 "open_issues": 1,
                 "owner": "Li-Evan",
                 "repo": "Bloom",
-                "stars": 267,
+                "stars": 269,
                 "topics": [
                   "adaptive-learning",
                   "agent-skills",
@@ -12746,7 +12888,7 @@
             {
               "node_type": "item",
               "title": "yzfly/awesome-skills-zh",
-              "description": "中文 Skills 精选资源：收录 Claude Skills、LLM Skills、AI Skills，适合中文用户发现可迁移技能素材（46⭐）",
+              "description": "中文 Skills 精选资源：收录 Claude Skills、LLM Skills、AI Skills，适合中文用户发现可迁移技能素材（47⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12755,11 +12897,11 @@
                 "id": 1119232564,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T06:57:15Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-20T15:11:16Z",
+                "open_issues": 0,
                 "owner": "yzfly",
                 "repo": "awesome-skills-zh",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -12807,7 +12949,7 @@
             {
               "node_type": "item",
               "title": "speak-human-tw",
-              "description": "繁体中文去 AI 味编辑 Skill：检查 38 类 AI 写作痕迹，校正台湾用语与标点，并通过“先列修改清单、确认后再动稿”保护事实和作者语气（981⭐）",
+              "description": "繁体中文去 AI 味编辑 Skill：检查 38 类 AI 写作痕迹，校正台湾用语与标点，并通过“先列修改清单、确认后再动稿”保护事实和作者语气（987⭐）",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12816,7 +12958,7 @@
                 "id": 1293371220,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T04:31:44Z",
+                "last_commit": "2026-09-21T04:29:50Z",
                 "open_issues": 2,
                 "owner": "Raymondhou0917",
                 "repo": "speak-human-tw",
@@ -12953,7 +13095,7 @@
                 "open_issues": 0,
                 "owner": "hezkvectory",
                 "repo": "hermes-edu-skills",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:42:40.614Z"
@@ -13019,7 +13161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:24:22.739Z",
+    "last_updated": "2026-09-21T12:48:35.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新",
@@ -13027,11 +13169,11 @@
       "id": 1210288370,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-09-19T06:53:16Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-20T15:55:58Z",
+      "open_issues": 1,
       "owner": "laolaoshiren",
       "repo": "claude-code-skills-zh",
-      "stars": 858,
+      "stars": 862,
       "topics": [
         "ai-agent",
         "awesome-list",
@@ -13042,7 +13184,7 @@
         "skills"
       ]
     },
-    "original_repository_sha": "d9995c2a78f0715c41a3111fb30acc74a8d32904",
+    "original_repository_sha": "2d40f6385db7953b2a31560b9f62c4a8db1dcdae",
     "enhanced_repository": "enhansome/enhansome-claude-code-skills-zh",
     "enhanced_repository_description": null,
     "title": "Awesome 🛠️ Claude Code Skills 中文精选集 with stars"
